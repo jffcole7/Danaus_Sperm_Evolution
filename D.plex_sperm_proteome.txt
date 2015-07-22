@@ -1,0 +1,832 @@
+OGS2	OGS1	Apyrene	Eupyrene	AE	Uniprot_Function	X	Manduca_Sperm	Dmel_Spermo	Function	Manduca_homolog	Dmel_homologs
+DPOGS200051	DPOGS107406	TRUE	TRUE	TRUE	Immune-related Hdd1	1	Msex2.07359	NA	calponin homology domain-containing protein ddb_g0272472-like	NA	NA
+DPOGS200125	DPOGS111524	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_11524	Msex2.12073	FBgn0038224
+DPOGS200137	DPOGS110714	FALSE	TRUE	TRUE	Putative axonemal leucine-rich repeat protein	NA	NA	NA	axonemal leucine-rich repeat protein	NA	FBgn0046697
+DPOGS200148	DPOGS102326	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.01000	NA	hypothetical protein KGM_02326	NA	NA
+DPOGS200150	DPOGS102328	TRUE	TRUE	TRUE	Tetraspanin E118	0.105	Msex2.13025	NA	tetraspanin e118	Msex2.00999	FBgn0029507
+DPOGS200206	DPOGS110975	TRUE	TRUE	TRUE	Tfpi protein	1	Msex2.02475	NA	tfpi protein	NA	FBgn0003137
+DPOGS200283	DPOGS100359	TRUE	TRUE	TRUE	Putative ATP-binding protein	1	Msex2.13825	NA	atp-binding protein	NA	NA
+DPOGS200293	DPOGS104578	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	FBgn0032431	hypothetical protein KGM_04578	NA	NA
+DPOGS200327	DPOGS113185	TRUE	FALSE	FALSE	"Actin 5C, isoform B"	0.455	Msex2.08645	FBgn0000047	NA	NA	NA
+DPOGS200328	DPOGS113185	FALSE	FALSE	TRUE	"Actin 5C, isoform B"	NA	NA	NA	actin-4	Msex2.07366	FBgn0000042
+DPOGS200337	DPOGS105772	TRUE	TRUE	TRUE	Putative cohesin subunit	1	Msex2.05354	NA	cohesin subunit	NA	FBgn0262123
+DPOGS200340	DPOGS104560	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA	NA
+DPOGS200355	DPOGS116847	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.07821	FBgn0035032	hypothetical protein KGM_16847	NA	NA
+DPOGS200359	DPOGS100351	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.13828	NA	hypothetical protein KGM_00351	NA	NA
+DPOGS200377	DPOGS119563	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_19563	Msex2.01111	FBgn0016691
+DPOGS200384	DPOGS113656	FALSE	TRUE	TRUE	Mitochondrial dicarboxylate carrier	NA	NA	NA	mitochondrial dicarboxylate carrier	Msex2.02701	FBgn0027610
+DPOGS200407	DPOGS117353	FALSE	TRUE	TRUE	Uncharacterized protein	1	Msex2.02606	FBgn0031912	hypothetical protein KGM_17353	NA	NA
+DPOGS200423	NA	FALSE	FALSE	TRUE	NA	NA	NA	NA	PREDICTED: uncharacterized protein LOC101746778	Msex2.02626	NA
+DPOGS200427	DPOGS104050	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.01624	FBgn0261439	hypothetical protein KGM_04050	NA	NA
+DPOGS200465	DPOGS100615	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_00615	Msex2.08151	NA
+DPOGS200485	DPOGS121760	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_11713	Msex2.02968	NA
+DPOGS200496	DPOGS121768	TRUE	TRUE	TRUE	Putative non-metastatic cells 5 protein	1	Msex2.02970	NA	non-metastatic cells 5 protein	NA	FBgn0030573
+DPOGS200503	DPOGS120162	FALSE	FALSE	TRUE	NA	NA	NA	NA	iron regulatory protein 1	Msex2.11706	FBgn0024957
+DPOGS200504	DPOGS112243	FALSE	FALSE	TRUE	Iron regulatory protein 1	NA	NA	NA	iron regulatory protein 1	Msex2.11708	FBgn0024957
+DPOGS200512	DPOGS112277	FALSE	FALSE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_12277	NA	FBgn0003890
+DPOGS200518	DPOGS109469	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.08594	NA	hypothetical protein KGM_01365	NA	FBgn0003719
+DPOGS200548	DPOGS101652	TRUE	TRUE	TRUE	Aminopeptidase N-like protein	NA	NA	NA	aminopeptidase n-like protein	Msex2.10159	FBgn0263236
+DPOGS200549	DPOGS105571	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_05571	Msex2.10159	FBgn0263236
+DPOGS200638	DPOGS102478	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.04066	NA	hypothetical protein KGM_02478	NA	FBgn0085370
+DPOGS200646	DPOGS108322	FALSE	TRUE	FALSE	Uncharacterized protein	0.104	Msex2.04050	FBgn0033961	hypothetical protein KGM_08322	Msex2.04051	NA
+DPOGS200647	DPOGS108323	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_08323	NA	NA
+DPOGS200723	DPOGS107997	FALSE	TRUE	TRUE	Peptidyl-prolyl cis-trans isomerase E	NA	NA	NA	peptidyl-prolyl cis-trans isomerase e	Msex2.10624	FBgn0036415
+DPOGS200740	DPOGS108004	TRUE	TRUE	TRUE	Putative tetraspanin	1	Msex2.10623	NA	putative tetraspanin	NA	FBgn0036769
+DPOGS200759	DPOGS108081	FALSE	TRUE	TRUE	Uncharacterized protein	1	Msex2.11042	NA	hypothetical protein KGM_08081	NA	NA
+DPOGS200797	DPOGS100827	FALSE	FALSE	TRUE	Casein kinase I alpha	NA	NA	FBgn0015024	casein kinase i alpha	Msex2.12447	NA
+DPOGS200799	DPOGS100829	FALSE	TRUE	TRUE	V-type proton ATPase subunit B	1	Msex2.12444	FBgn0005671	v-type proton atpase subunit b	NA	NA
+DPOGS200854	DPOGS100689	FALSE	TRUE	TRUE	Mitochondrial matrix protein p33	1	Msex2.07784	NA	mitochondrial matrix protein p33	NA	FBgn0034259
+DPOGS200858	DPOGS100694	TRUE	TRUE	TRUE	Acyl carrier protein	NA	NA	FBgn0011361	nadh dehydrogenase isoform 1	Msex2.07792	NA
+DPOGS200888	DPOGS102542	TRUE	TRUE	TRUE	NADH dehydrogenase ubiquinone Fe-S 8	1	Msex2.06553	NA	nadh dehydrogenase ubiquinone fe-s 8	NA	FBgn0017567
+DPOGS200904	DPOGS102560	TRUE	TRUE	TRUE	Citrate synthase	1	Msex2.11529	NA	citrate synthase	NA	FBgn0261955
+DPOGS200908	DPOGS102563	TRUE	TRUE	TRUE	EF-hand calcium-binding domain-containing protein 1	1	Msex2.11523	NA	ef-hand calcium-binding domain-containing protein 1	NA	FBgn0029995
+DPOGS200911	DPOGS102567	TRUE	TRUE	TRUE	Glutamine synthetase (EC 6.3.1.2)	NA	NA	NA	hypothetical protein KGM_02567	Msex2.06563	FBgn0001145
+DPOGS200926	DPOGS103983	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.03104	NA	hypothetical protein KGM_03983	NA	FBgn0031347
+DPOGS200967	DPOGS102403	FALSE	TRUE	FALSE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_02403	Msex2.00321	NA
+DPOGS200969	DPOGS102405	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_02405	Msex2.00317	NA
+DPOGS200987	DPOGS106784	TRUE	TRUE	TRUE	Putative Mitochondrial 2-oxoglutarate/malate carrier protein	NA	NA	NA	mitochondrial 2-oxoglutarate malate carrier	Msex2.03358	FBgn0039674
+DPOGS200989	DPOGS106290	TRUE	TRUE	TRUE	Putative Mitochondrial 2-oxoglutarate/malate carrier protein	0.25	Msex2.03362	FBgn0035568	mitochondrial 2-oxoglutarate malate carrier protein	NA	FBgn0039674
+DPOGS200992	DPOGS106293	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.03368	NA	hypothetical protein KGM_06293	NA	NA
+DPOGS201017	DPOGS106300	FALSE	TRUE	FALSE	Sepiapterin reductase	NA	NA	NA	sepiapterin reductase	Msex2.03364	FBgn0014032
+DPOGS201045	DPOGS105305	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA	NA
+DPOGS201094	DPOGS119567	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.06467	NA	isocitrate dehydrogenase	NA	FBgn0027291
+DPOGS201095	DPOGS117670	FALSE	TRUE	TRUE	Isocitrate dehydrogenase	NA	NA	NA	isocitrate dehydrogenase	NA	FBgn0027291
+DPOGS201111	DPOGS118945	FALSE	TRUE	TRUE	Vacuolar ATP synthase subunit G	1	Msex2.06958	NA	vacuolar atp synthase subunit g	NA	FBgn0026753
+DPOGS201112	DPOGS118946	FALSE	TRUE	TRUE	Putative Trypsin alpha	1	Msex2.06954	NA	trypsin alpha	NA	FBgn0039703
+DPOGS201116	DPOGS118949	FALSE	TRUE	TRUE	Kallikrein 13	NA	NA	NA	kallikrein 13 precursor	Msex2.06955	FBgn0039272
+DPOGS201117	DPOGS118950	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.06956	NA	hypothetical protein KGM_02679	NA	FBgn0032833
+DPOGS201118	DPOGS118951	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.06957	NA	hypothetical protein KGM_18951	NA	FBgn0259998
+DPOGS201125	DPOGS112459	FALSE	TRUE	TRUE	Trypsin-1	1	Msex2.04716	NA	trypsin-1	NA	FBgn0015316
+DPOGS201143	DPOGS105536	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.13123	FBgn0035724	hypothetical protein KGM_05536	NA	NA
+DPOGS201164	DPOGS104992	FALSE	TRUE	FALSE	Putative nuclear protein localization	1	Msex2.11987	NA	nuclear protein localization	NA	FBgn0039348
+DPOGS201223	DPOGS104323	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_04323	Msex2.05184	FBgn0036931
+DPOGS201263	DPOGS104333	FALSE	TRUE	TRUE	Uncharacterized protein	1	Msex2.05183	NA	hypothetical protein KGM_04333	NA	NA
+DPOGS201289	DPOGS111827	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.05412	FBgn0013810	hypothetical protein KGM_11827	NA	NA
+DPOGS201305	NA	FALSE	TRUE	FALSE	NA	NA	NA	NA	NA	NA	NA
+DPOGS201311	DPOGS112839	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_12839	NA	NA
+DPOGS201312	DPOGS112839	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_12839	Msex2.05438	FBgn0031619
+DPOGS201313	DPOGS112840	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_12840	Msex2.05437	FBgn0010425
+DPOGS201323	DPOGS106859	TRUE	TRUE	TRUE	Aspartate aminotransferase (EC 2.6.1.1)	1	Msex2.05418	NA	aspartate aminotransferase	NA	FBgn0001125
+DPOGS201379	DPOGS121512	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.06578	FBgn0013809	hypothetical protein KGM_21512	NA	NA
+DPOGS201389	DPOGS121521	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_21521	NA	NA
+DPOGS201392	DPOGS121524	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA	NA
+DPOGS201402	DPOGS121532	FALSE	TRUE	TRUE	Mitochondrial ADP/ATP carrier protein	0.333	Msex2.06969	FBgn0025111	mitochondrial adp atp carrier protein	NA	NA
+DPOGS201415	DPOGS118501	FALSE	TRUE	TRUE	Uncharacterized protein	0.5	Msex2.13798	NA	hypothetical protein KGM_18501	NA	FBgn0025678
+DPOGS201428	DPOGS113696	FALSE	TRUE	TRUE	Uncharacterized protein	1	Msex2.08548	FBgn0038271	hypothetical protein KGM_13696	NA	NA
+DPOGS201447	DPOGS100424	TRUE	FALSE	FALSE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_00424	Msex2.03714	FBgn0051973
+DPOGS201501	DPOGS109025	FALSE	FALSE	TRUE	Putative prolyl endopeptidase isoform 1	1	Msex2.03717	NA	prolyl endopeptidase isoform 1	NA	FBgn0032242
+DPOGS201524	DPOGS112768	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_12768	Msex2.03935	FBgn0034583
+DPOGS201533	DPOGS113705	FALSE	FALSE	TRUE	Rab-related protein	NA	NA	NA	rab-related protein	Msex2.13804	FBgn0002567
+DPOGS201556	DPOGS119719	FALSE	FALSE	TRUE	Putative F38B2.4	1	Msex2.07067	FBgn0022709	adenylate kinase isoenzyme 1-like isoform x1	NA	NA
+DPOGS201557	DPOGS119720	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_19720	NA	NA
+DPOGS201569	DPOGS118135	FALSE	FALSE	TRUE	NA	NA	NA	NA	NA	NA	NA
+DPOGS201582	DPOGS112822	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA	NA
+DPOGS201597	DPOGS116864	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_03806	Msex2.13473	FBgn0032649
+DPOGS201656	DPOGS120263	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.09940	NA	heavy polypeptide 1	NA	NA
+DPOGS201674	DPOGS118461	FALSE	TRUE	FALSE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_18461	Msex2.01886	FBgn0037985
+DPOGS201676	DPOGS118463	TRUE	TRUE	TRUE	Putative NADH dehydrogenase	1	Msex2.01888	NA	nadh dehydrogenase	NA	FBgn0033570
+DPOGS201692	DPOGS105888	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_05888	Msex2.11680	FBgn0038452
+DPOGS201693	DPOGS105889	TRUE	FALSE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_05889	Msex2.14449	NA
+DPOGS201709	DPOGS109094	FALSE	TRUE	TRUE	Uncharacterized protein	1	Msex2.11674	NA	hypothetical protein KGM_09094	NA	FBgn0034532
+DPOGS201744	DPOGS117373	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.06504	NA	14-3-3 protein zeta	NA	FBgn0004907
+DPOGS201752	DPOGS117379	TRUE	TRUE	TRUE	Putative Cullin-associated NEDD8-dissociated protein 1	1	Msex2.06493	NA	cullin-associated nedd8-dissociated protein 1	NA	FBgn0027568
+DPOGS201758	DPOGS117380	TRUE	FALSE	FALSE	Uncharacterized protein	NA	NA	FBgn0031869	hypothetical protein KGM_07163	Msex2.06492	NA
+DPOGS201797	DPOGS114429	FALSE	TRUE	TRUE	Putative coiled-coil domain-containing protein	NA	NA	NA	coiled-coil domain-containing protein	Msex2.14337	FBgn0032768
+DPOGS201801	DPOGS114434	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_14434	Msex2.08307	FBgn0038452
+DPOGS201813	DPOGS114446	FALSE	TRUE	TRUE	Phosphoglyceromutase	0.5	Msex2.12647	NA	phosphoglyceromutase	NA	FBgn0014869
+DPOGS201816	DPOGS114448	FALSE	FALSE	TRUE	Abhydrolase domain containing 11	NA	NA	NA	abhydrolase domain containing 11	NA	FBgn0029942
+DPOGS201826	DPOGS112568	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA	NA
+DPOGS201832	DPOGS111415	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_11415	Msex2.07934	FBgn0036195
+DPOGS201862	DPOGS116907	TRUE	FALSE	FALSE	Uncharacterized protein	NA	NA	FBgn0031216	hypothetical protein KGM_16907	Msex2.07056	NA
+DPOGS201911	DPOGS111421	FALSE	FALSE	TRUE	NA	NA	NA	NA	NA	NA	NA
+DPOGS201912	DPOGS122354	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	f-box and wd domain protein	Msex2.07936	NA
+DPOGS201983	DPOGS110851	FALSE	FALSE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_10851	Msex2.13506	NA
+DPOGS201984	DPOGS110851	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.13505	NA	hypothetical protein KGM_10851	NA	NA
+DPOGS202024	DPOGS107102	TRUE	TRUE	TRUE	"Succinate dehydrogenase, iron-sulfur subunit"	1	Msex2.03529	NA	succinate iron-sulfur subunit	NA	FBgn0014028
+DPOGS202110	DPOGS116628	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	PREDICTED: uncharacterized protein LOC101744306	Msex2.00165	NA
+DPOGS202115	DPOGS114851	FALSE	FALSE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_14851	Msex2.00166	FBgn0033243
+DPOGS202129	DPOGS121349	FALSE	TRUE	TRUE	Uncharacterized protein	0.6	Msex2.06763	NA	putative Uncharacterized protein C4orf22-like protein	NA	FBgn0038122
+DPOGS202151	DPOGS110507	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA	NA
+DPOGS202178	DPOGS110825	TRUE	TRUE	TRUE	Aspartate aminotransferase (EC 2.6.1.1)	1	Msex2.09677	FBgn0001124	hypothetical protein KGM_10825	NA	NA
+DPOGS202238	NA	FALSE	FALSE	TRUE	NA	NA	NA	NA	NA	NA	NA
+DPOGS202254	DPOGS116291	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_16291	Msex2.08116	FBgn0037684
+DPOGS202261	DPOGS102316	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.12581	NA	hypothetical protein KGM_02316	Msex2.03841	FBgn0035046
+DPOGS202294	DPOGS117408	FALSE	TRUE	TRUE	Mitochondrial NADH:ubiquinone oxidoreductase B14.7 subunit	NA	NA	NA	mitochondrial nadh:ubiquinone oxidoreductase subunit	Msex2.13322	FBgn0034576
+DPOGS202308	DPOGS117422	FALSE	FALSE	TRUE	Uncharacterized protein	0.333	Msex2.05286	NA	hypothetical protein KGM_17422	NA	FBgn0027492
+DPOGS202351	DPOGS109708	FALSE	FALSE	TRUE	Fmr	NA	NA	FBgn0028734	fmr	Msex2.09225	NA
+DPOGS202367	DPOGS110936	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_03948	Msex2.05741	FBgn0036436
+DPOGS202391	DPOGS112497	FALSE	TRUE	TRUE	Uncharacterized protein	1	Msex2.10371	NA	hypothetical protein KGM_12497	Msex2.14228	NA
+DPOGS202402	DPOGS110381	TRUE	TRUE	TRUE	Beta-tubulin	NA	NA	NA	beta-tubulin	NA	NA
+DPOGS202403	DPOGS110382	TRUE	TRUE	TRUE	Putative beta1-tubulin	NA	NA	NA	putative beta1-tubulin	NA	NA
+DPOGS202417	DPOGS110386	FALSE	TRUE	TRUE	Beta-tubulin	1	Msex2.01461	NA	beta-tubulin	NA	NA
+DPOGS202422	DPOGS114370	FALSE	TRUE	TRUE	Uncharacterized protein	1	Msex2.13184	NA	hypothetical protein KGM_14370	NA	NA
+DPOGS202431	DPOGS114366	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_14366	Msex2.13185	NA
+DPOGS202432	NA	TRUE	TRUE	TRUE	NA	NA	NA	NA	NA	Msex2.13182	NA
+DPOGS202451	DPOGS120117	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_20117	Msex2.08088	NA
+DPOGS202452	DPOGS120118	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	2-oxoglutarate mitochondrial-like isoform x2	NA	NA
+DPOGS202537	DPOGS107276	FALSE	FALSE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_07276	Msex2.00394	FBgn0034481
+DPOGS202591	DPOGS122315	FALSE	TRUE	TRUE	Putative radial spoke head 1-like protein	NA	NA	NA	radial spoke head 1-like protein	Msex2.02660	FBgn0036014
+DPOGS202602	DPOGS101761	FALSE	TRUE	FALSE	Putative mini-chromosome maintenance deficient 9	NA	NA	NA	mini-chromosome maintenance deficient 9	Msex2.00544	FBgn0014861
+DPOGS202628	DPOGS112007	TRUE	TRUE	TRUE	Mitochondrial prohibitin complex protein 2	1	Msex2.01169	NA	mitochondrial prohibitin complex protein 2	NA	FBgn0010551
+DPOGS202687	DPOGS114132	FALSE	FALSE	TRUE	Uncharacterized protein	NA	NA	NA	atp-dependent bile acid permease	Msex2.07664	FBgn0039207
+DPOGS202689	DPOGS108988	FALSE	TRUE	TRUE	Uncharacterized protein	1	Msex2.07892	NA	hypothetical protein KGM_08988	NA	FBgn0083946
+DPOGS202694	DPOGS108993	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.07903	NA	hypothetical protein KGM_08993	NA	NA
+DPOGS202695	DPOGS108994	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.07904	NA	hypothetical protein KGM_08994	NA	FBgn0051025
+DPOGS202703	DPOGS109000	FALSE	TRUE	FALSE	NA	NA	NA	NA	NA	NA	NA
+DPOGS202732	DPOGS107037	FALSE	FALSE	TRUE	Uncharacterized protein	1	Msex2.01875	NA	hypothetical protein KGM_07037	NA	FBgn0260747
+DPOGS202769	DPOGS109039	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.11487	FBgn0051803	hypothetical protein KGM_09039	NA	NA
+DPOGS202773	DPOGS109043	FALSE	TRUE	TRUE	Peroxiredoxin	1	Msex2.11496	NA	peroxiredoxin	NA	FBgn0038570
+DPOGS202792	DPOGS108355	FALSE	TRUE	TRUE	Muscle-specific protein 300	NA	NA	NA	muscle-specific protein 300	Msex2.06395	FBgn0261836
+DPOGS202793	DPOGS108356	TRUE	TRUE	TRUE	Putative 1-beta dynein	NA	NA	NA	1-beta dynein	Msex2.06398	FBgn0034106
+DPOGS202794	DPOGS122433	TRUE	TRUE	TRUE	NA	NA	NA	NA	1-beta dynein	Msex2.06398	FBgn0001313
+DPOGS202795	DPOGS122434	TRUE	TRUE	TRUE	Putative dynein axonemal heavy chain-like protein	NA	NA	NA	dynein axonemal heavy chain-like protein	Msex2.06398	FBgn0001313
+DPOGS202822	DPOGS117888	TRUE	TRUE	TRUE	Putative cyclic GMP stimulated phosphodiesterase	1	Msex2.04815	NA	cyclic gmp stimulated phosphodiesterase	NA	FBgn0085370
+DPOGS202898	DPOGS121197	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.10721	NA	hypothetical protein KGM_21197	NA	FBgn0030359
+DPOGS202910	DPOGS106365	FALSE	TRUE	TRUE	Putative ATP-binding cassette sub-family A member 3	NA	NA	NA	atp-binding cassette sub-family a member 3	Msex2.12147	FBgn0031170
+DPOGS202970	DPOGS117755	FALSE	TRUE	TRUE	Putative malate dehydrogenase	NA	NA	NA	malate dehydrogenase	Msex2.02939	FBgn0262559
+DPOGS202983	DPOGS121585	TRUE	FALSE	FALSE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_21585	Msex2.09956	FBgn0030266
+DPOGS202994	DPOGS121594	FALSE	TRUE	TRUE	Ociad protein isoform 1	1	Msex2.11850	NA	ociad protein isoform 1	NA	FBgn0034793
+DPOGS202995	DPOGS121595	FALSE	TRUE	TRUE	Ociad protein isoform 2	1	Msex2.11849	NA	ociad protein isoform 2	NA	FBgn0034793
+DPOGS202999	DPOGS121597	FALSE	TRUE	TRUE	ATP synthase subunit gamma	1	Msex2.01334	NA	h+ transporting atp synthase gamma subunit	NA	FBgn0020235
+DPOGS203034	DPOGS121634	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.07351	NA	hypothetical protein KGM_21634	NA	NA
+DPOGS203039	DPOGS122520	FALSE	TRUE	FALSE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_22520	Msex2.01269	NA
+DPOGS203050	DPOGS122531	FALSE	FALSE	TRUE	NA	NA	NA	NA	NA	NA	NA
+DPOGS203086	DPOGS116238	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_16238	Msex2.12663	NA
+DPOGS203089	DPOGS103508	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_03508	Msex2.12663	NA
+DPOGS203190	DPOGS111484	FALSE	TRUE	FALSE	Uncharacterized protein	NA	NA	NA	"PREDICTED: uncharacterized protein LOC101746620, partial"	Msex2.01938	FBgn0031374
+DPOGS203191	DPOGS119758	FALSE	TRUE	FALSE	Putative cullin isoform 1	NA	NA	FBgn0032956	cullin isoform 1	Msex2.01954	NA
+DPOGS203207	DPOGS121405	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_21405	Msex2.06743	FBgn0034479
+DPOGS203218	DPOGS118697	FALSE	TRUE	TRUE	Uncharacterized protein	1	Msex2.11923	NA	PREDICTED: c-Myc-binding protein-like	NA	FBgn0038373
+DPOGS203278	DPOGS109609	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	PREDICTED: uncharacterized protein LOC101746333	Msex2.00325	NA
+DPOGS203282	DPOGS108720	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.01420	NA	hypothetical protein KGM_08720	NA	NA
+DPOGS203290	DPOGS108729	TRUE	TRUE	TRUE	Aldose-1-epimerase	1	Msex2.01396	NA	aldose-1-epimerase	NA	FBgn0035679
+DPOGS203293	DPOGS108730	FALSE	TRUE	TRUE	Uncharacterized protein	1	Msex2.01399	NA	hypothetical protein KGM_08730	NA	FBgn0261451
+DPOGS203307	DPOGS108745	FALSE	TRUE	TRUE	Venom allergen 5	1	Msex2.05997	NA	venom allergen 5	NA	FBgn0038126
+DPOGS203308	DPOGS108746	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.05998	NA	hypothetical protein KGM_08746	NA	FBgn0037483
+DPOGS203309	DPOGS108747	TRUE	FALSE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_08747	NA	NA
+DPOGS203321	DPOGS108758	TRUE	TRUE	TRUE	Mitochondrial processing peptidase beta subunit	NA	NA	NA	mitochondrial processing peptidase beta subunit	Msex2.03689	NA
+DPOGS203334	DPOGS108771	TRUE	TRUE	TRUE	Uncharacterized protein	0.667	Msex2.04846	FBgn0003885	hypothetical protein KGM_08771	Msex2.02828	FBgn0003884
+DPOGS203337	DPOGS108775	TRUE	TRUE	TRUE	Putative serine/threonine-protein kinase 38	NA	NA	NA	serine threonine-protein kinase 38	Msex2.01345	FBgn0003744
+DPOGS203359	DPOGS110043	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_10043	Msex2.14228	FBgn0053196
+DPOGS203388	DPOGS108809	TRUE	TRUE	TRUE	Beta-actin	NA	NA	NA	beta-actin	Msex2.03685	FBgn0000044
+DPOGS203389	DPOGS108810	TRUE	TRUE	TRUE	Actin	1	Msex2.03686	NA	actin	NA	FBgn0000046
+DPOGS203391	DPOGS108815	TRUE	TRUE	TRUE	Ubiquinol-cytochrome c reductase core protein I	NA	NA	NA	ubiquinol-cytochrome c reductase core protein i	Msex2.03690	NA
+DPOGS203402	DPOGS108826	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_08826	Msex2.05995	NA
+DPOGS203412	DPOGS108839	FALSE	FALSE	TRUE	Putative signal transduction protein p25	NA	NA	NA	signal transduction protein p25	Msex2.08003	FBgn0266417
+DPOGS203413	DPOGS108840	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_08840	Msex2.01400	NA
+DPOGS203439	DPOGS110995	FALSE	FALSE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_10995	Msex2.01950	FBgn0016641
+DPOGS203450	DPOGS122363	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.01968	NA	neverland	NA	FBgn0259697
+DPOGS203451	DPOGS100064	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_00064	NA	NA
+DPOGS203469	DPOGS109764	FALSE	TRUE	TRUE	Putative NADH:ubiquinone dehydrogenase	NA	NA	NA	nadh:ubiquinone dehydrogenase	NA	NA
+DPOGS203490	DPOGS122709	FALSE	TRUE	TRUE	V-type proton ATPase catalytic subunit A	0.5	Msex2.07462	NA	v-type proton atpase catalytic subunit a	NA	FBgn0263598
+DPOGS203491	DPOGS122710	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_22710	Msex2.07463	NA
+DPOGS203525	DPOGS121841	FALSE	TRUE	TRUE	Sperm-specific sodium proton exchanger	NA	NA	NA	sperm-specific sodium proton exchanger	Msex2.04911	FBgn0040297
+DPOGS203536	DPOGS105662	FALSE	TRUE	FALSE	Putative NADH dehydrogenase	1	Msex2.10927	NA	nadh dehydrogenase	NA	FBgn0034645
+DPOGS203597	DPOGS120972	TRUE	TRUE	TRUE	NADH dehydrogenase	1	Msex2.01138	FBgn0021967	nadh dehydrogenase	NA	NA
+DPOGS203603	DPOGS106253	FALSE	TRUE	TRUE	NA	1	Msex2.01151	NA	solute carrier family 13 member 2-like	NA	FBgn0036816
+DPOGS203605	DPOGS106257	FALSE	TRUE	TRUE	Putative coiled-coil domain-containing protein	NA	NA	NA	coiled-coil domain-containing protein	Msex2.01155	NA
+DPOGS203616	DPOGS106251	FALSE	TRUE	TRUE	Putative sodium/dicarboxylate cotransporter	NA	NA	NA	protein i m not dead yet-like	NA	FBgn0036816
+DPOGS203617	DPOGS106252	TRUE	TRUE	TRUE	Uncharacterized protein	0.333	Msex2.01152	NA	hypothetical protein KGM_06252	NA	FBgn0036816
+DPOGS203626	DPOGS111132	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.13998	NA	hypothetical protein KGM_11132	NA	NA
+DPOGS203629	DPOGS114983	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.05958	NA	hypothetical protein KGM_14983	NA	NA
+DPOGS203644	DPOGS100637	FALSE	TRUE	TRUE	Sui m 6 allergen	1	Msex2.13476	NA	sui m 6 allergen	NA	FBgn0037677
+DPOGS203648	DPOGS100641	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_00641	Msex2.06486	NA
+DPOGS203649	DPOGS105204	FALSE	TRUE	FALSE	Putative integrator complex subunit 6	NA	NA	NA	integrator complex subunit 6	Msex2.06482	FBgn0261383
+DPOGS203653	DPOGS115281	FALSE	TRUE	TRUE	C-type lectin 8	NA	NA	NA	c-type lectin 8	Msex2.07890	FBgn0053532
+DPOGS203655	DPOGS104229	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_04229	Msex2.07886	FBgn0031859
+DPOGS203656	DPOGS104230	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_04230	Msex2.07884	NA
+DPOGS203677	DPOGS104623	FALSE	TRUE	TRUE	Casein kinase II alpha subunit	1	Msex2.00235	NA	casein kinase ii alpha subunit	NA	FBgn0264492
+DPOGS203703	DPOGS101860	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_01860	NA	NA
+DPOGS203712	DPOGS116601	FALSE	TRUE	FALSE	NA	NA	NA	NA	NA	NA	NA
+DPOGS203718	DPOGS122352	TRUE	TRUE	TRUE	Putative NADH dehydrogenase	1	Msex2.13302	NA	nadh dehydrogenase	NA	FBgn0030853
+DPOGS203720	DPOGS121574	TRUE	FALSE	FALSE	Putative PDZ domain containing 3	NA	NA	NA	pdz domain containing 3	Msex2.10052	FBgn0000008
+DPOGS203765	DPOGS111018	TRUE	TRUE	FALSE	Apolipophorins	0.333	Msex2.09436	FBgn0087002	Apolipophorins	NA	NA
+DPOGS203778	DPOGS105253	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.07006	NA	hypothetical protein KGM_05253	NA	FBgn0032010
+DPOGS203779	DPOGS105256	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_05256	NA	NA
+DPOGS203783	DPOGS120883	FALSE	TRUE	TRUE	Uncharacterized protein	1	Msex2.12196	NA	hypothetical protein KGM_20883	NA	FBgn0038531
+DPOGS203785	DPOGS121571	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_21571	NA	FBgn0037726
+DPOGS203786	DPOGS121572	TRUE	TRUE	TRUE	Dynein heavy chain	0.333	Msex2.10051	FBgn0001314	dynein heavy chain	NA	FBgn0037726
+DPOGS203787	DPOGS122349	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.11546	NA	hypothetical protein KGM_22349	NA	FBgn0266582
+DPOGS203796	DPOGS101870	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.00198	FBgn0034745	hypothetical protein KGM_01870	NA	NA
+DPOGS203806	DPOGS117748	TRUE	TRUE	TRUE	Uncharacterized protein	0.25	Msex2.00212	NA	hypothetical protein KGM_17748	Msex2.00213	FBgn0085486
+DPOGS203839	DPOGS115238	FALSE	FALSE	TRUE	Putative septin	NA	NA	NA	putative septin	Msex2.07881	FBgn0013726
+DPOGS203840	DPOGS104228	FALSE	TRUE	TRUE	Uncharacterized protein	1	Msex2.07885	NA	hypothetical protein KGM_04228	NA	NA
+DPOGS203842	DPOGS115285	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_15285	NA	NA
+DPOGS203862	DPOGS107112	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_07112	Msex2.02545	FBgn0022097
+DPOGS203863	DPOGS109295	FALSE	FALSE	TRUE	Vacuolar ATP synthase subunit D	NA	NA	NA	vacuolar atp synthase subunit d	Msex2.02545	FBgn0040377
+DPOGS203865	DPOGS109012	FALSE	TRUE	TRUE	Uncharacterized protein	1	Msex2.02543	NA	hypothetical protein KGM_09012	NA	FBgn0038400
+DPOGS203866	DPOGS112351	TRUE	TRUE	TRUE	NA	NA	NA	NA	seminal fluid protein hacp020	Msex2.01758	NA
+DPOGS203867	DPOGS112353	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_12353	Msex2.01760	FBgn0263776
+DPOGS203869	DPOGS113140	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	NA	NA	NA
+DPOGS203910	NA	FALSE	TRUE	TRUE	NA	NA	NA	NA	v-type proton atpase 116 kda subunit a isoform 1-like	Msex2.09122	FBgn0028670
+DPOGS203917	DPOGS118588	FALSE	TRUE	TRUE	Tissue factor pathway inhibitor	NA	NA	NA	tissue factor pathway inhibitor	Msex2.13402	FBgn0031562
+DPOGS203921	DPOGS118591	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.10427	NA	hypothetical protein KGM_18591	NA	NA
+DPOGS203928	DPOGS118599	FALSE	TRUE	FALSE	"Stretchin-Mlck, isoform A"	NA	NA	NA	stretchin- isoform a	Msex2.02841	FBgn0265045
+DPOGS203932	DPOGS118604	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.08258	FBgn0062517	hypothetical protein KGM_18604	NA	NA
+DPOGS203958	DPOGS118621	FALSE	TRUE	FALSE	Putative laminin A chain	NA	NA	NA	laminin a chain	Msex2.02093	FBgn0002526
+DPOGS203971	DPOGS118636	TRUE	TRUE	TRUE	"Cytochrome b-c1 complex subunit Rieske, mitochondrial (EC 1.10.2.2)"	NA	NA	NA	ubiquinol-cytochrome c reductase	Msex2.00292	FBgn0021906
+DPOGS203973	DPOGS118638	TRUE	FALSE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_18638	Msex2.09124	NA
+DPOGS203983	DPOGS118650	TRUE	TRUE	TRUE	NADH dehydrogenase 1 alpha subcomplex 12	NA	NA	NA	nadh dehydrogenase 1 alpha subcomplex 12	Msex2.02159	FBgn0031436
+DPOGS203997	DPOGS118664	TRUE	TRUE	TRUE	NADH-ubiquinone oxidoreductase fe-s protein 2	NA	NA	NA	nadh-ubiquinone oxidoreductase fe-s protein 2	Msex2.01935	FBgn0039909
+DPOGS204043	DPOGS101098	FALSE	TRUE	FALSE	Uncharacterized protein	1	Msex2.00844	NA	hypothetical protein KGM_01098	NA	NA
+DPOGS204049	DPOGS102444	TRUE	TRUE	TRUE	Putative carboxypeptidase A-like protein	NA	NA	NA	carboxypeptidase a-like protein	Msex2.07777	FBgn0032144
+DPOGS204063	DPOGS106765	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_06765	Msex2.08042	NA
+DPOGS204064	DPOGS106765	FALSE	FALSE	TRUE	Uncharacterized protein	1	Msex2.08042	NA	hypothetical protein KGM_06765	NA	NA
+DPOGS204137	DPOGS108943	FALSE	TRUE	TRUE	Uncharacterized protein	1	Msex2.12129	FBgn0023212	hypothetical protein KGM_08943	NA	NA
+DPOGS204147	DPOGS104696	TRUE	TRUE	TRUE	Hemolymph proteinase 8	NA	NA	NA	hemolymph proteinase 8	Msex2.13599	FBgn0000533
+DPOGS204174	DPOGS101435	TRUE	TRUE	TRUE	ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)	1	Msex2.12441	FBgn0032229	hypothetical protein KGM_01435	NA	NA
+DPOGS204244	DPOGS110406	TRUE	FALSE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_10406	Msex2.06230	FBgn0002431
+DPOGS204260	DPOGS111882	TRUE	TRUE	TRUE	Putative glutamine rich 2-like protein	1	Msex2.07054	NA	glutamine rich 2-like protein	NA	NA
+DPOGS204262	DPOGS111882	TRUE	TRUE	TRUE	Putative glutamine rich 2-like protein	NA	NA	NA	hypothetical protein KGM_01184	NA	NA
+DPOGS204263	DPOGS101184	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_01184	NA	NA
+DPOGS204284	DPOGS113977	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.07047	NA	hypothetical protein KGM_13977	NA	FBgn0037276
+DPOGS204316	DPOGS115888	FALSE	TRUE	TRUE	Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)	1	Msex2.11931	NA	nadph-specific isocitrate dehydrogenase	NA	FBgn0001248
+DPOGS204324	DPOGS110923	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.02709	NA	hypothetical protein KGM_10923	NA	FBgn0036195
+DPOGS204330	DPOGS103188	FALSE	TRUE	TRUE	Carboxypeptidase B	1	Msex2.03577	NA	carboxypeptidase b	NA	FBgn0039073
+DPOGS204357	DPOGS122692	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.02786	NA	hypothetical protein KGM_22692	NA	FBgn0034454
+DPOGS204394	NA	FALSE	FALSE	TRUE	NA	NA	NA	NA	NA	NA	NA
+DPOGS204410	DPOGS116772	FALSE	TRUE	TRUE	NA	NA	NA	NA	arginase	Msex2.06835	FBgn0023535
+DPOGS204433	DPOGS102976	FALSE	TRUE	TRUE	Uncharacterized protein	1	Msex2.08978	NA	hypothetical protein KGM_02976	NA	NA
+DPOGS204469	DPOGS104009	FALSE	TRUE	TRUE	Uncharacterized protein	1	Msex2.06846	NA	hypothetical protein KGM_04009	NA	FBgn0050093
+DPOGS204492	DPOGS116850	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.03322	NA	hypothetical protein KGM_16850	NA	NA
+DPOGS204493	NA	FALSE	FALSE	TRUE	NA	NA	NA	NA	NA	NA	NA
+DPOGS204506	DPOGS103002	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_03002	Msex2.13363	NA
+DPOGS204522	DPOGS121865	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_08508	Msex2.09375	FBgn0038296
+DPOGS204553	NA	FALSE	TRUE	TRUE	NA	1	Msex2.09390	NA	protein fam183a-like	NA	NA
+DPOGS204593	NA	FALSE	TRUE	TRUE	NA	NA	NA	NA	dynein beta ciliary-like	NA	NA
+DPOGS204676	DPOGS113688	FALSE	TRUE	TRUE	V-type proton ATPase subunit E	1	Msex2.09308	FBgn0015324	v-type proton atpase subunit e	NA	NA
+DPOGS204677	DPOGS118765	FALSE	TRUE	TRUE	NA	1	Msex2.09305	NA	mitochondrial glutamate carrier 1-like	NA	FBgn0260743
+DPOGS204680	DPOGS106846	FALSE	TRUE	TRUE	Putative anterior fat body protein	1	Msex2.09301	NA	anterior fat body protein	NA	FBgn0038257
+DPOGS204704	DPOGS102664	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_02664	NA	NA
+DPOGS204739	DPOGS111624	FALSE	TRUE	FALSE	Troponin T transcript variant B	NA	NA	NA	troponin t transcript variant b	Msex2.03994	FBgn0004169
+DPOGS204774	DPOGS116748	TRUE	TRUE	TRUE	Organic cation transporter	1	Msex2.03980	NA	organic cation transporter	NA	FBgn0034479
+DPOGS204885	DPOGS107532	TRUE	TRUE	TRUE	Ubiquinol-cytochrome c reductase core protein II	1	Msex2.10324	FBgn0250814	ubiquinol-cytochrome c reductase core protein ii	NA	NA
+DPOGS204918	DPOGS105361	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_05361	Msex2.10967	NA
+DPOGS204978	DPOGS103618	FALSE	FALSE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_03618	Msex2.08277	FBgn0034692
+DPOGS204999	NA	TRUE	TRUE	TRUE	NA	1	Msex2.08281	NA	cytochrome c subunit vb	NA	FBgn0031830
+DPOGS205037	DPOGS112859	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_12859	Msex2.12545	NA
+DPOGS205065	DPOGS101750	TRUE	FALSE	FALSE	Kinesin heavy chain	NA	NA	FBgn0001308	kinesin heavy chain	Msex2.04977	NA
+DPOGS205125	DPOGS116874	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_16874	Msex2.07670	NA
+DPOGS205126	DPOGS116875	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_16875	Msex2.07670	FBgn0030889
+DPOGS205137	DPOGS120265	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_20265	Msex2.13700	FBgn0034688
+DPOGS205202	DPOGS119957	FALSE	TRUE	TRUE	Putative vacuolar ATP synthase subunit S1	NA	NA	NA	vacuolar atp synthase subunit s1	Msex2.09814	NA
+DPOGS205203	DPOGS106262	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_06262	NA	NA
+DPOGS205211	DPOGS114116	TRUE	TRUE	TRUE	ADP/ATP tranlocase	1	Msex2.14995	FBgn0003360	adp atp tranlocase	NA	NA
+DPOGS205217	DPOGS106757	TRUE	TRUE	TRUE	Uncharacterized protein	0.333	Msex2.14077	NA	hypothetical protein KGM_06757	NA	NA
+DPOGS205225	DPOGS103814	TRUE	TRUE	TRUE	Putative ubx domain-containing protein	NA	NA	NA	ubx domain-containing protein	Msex2.14321	FBgn0028372
+DPOGS205229	DPOGS114114	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_14113	Msex2.10665	NA
+DPOGS205233	DPOGS121570	FALSE	FALSE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_21570	Msex2.09810	NA
+DPOGS205238	DPOGS106261	TRUE	TRUE	FALSE	Heat shock protein 70	1	Msex2.09813	NA	heat shock protein 70	NA	FBgn0001220
+DPOGS205244	DPOGS116714	TRUE	FALSE	FALSE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_16712	Msex2.10658	FBgn0020309
+DPOGS205330	DPOGS117008	TRUE	FALSE	FALSE	Uncharacterized protein	NA	NA	FBgn0036454	hypothetical protein KGM_17008	Msex2.12518	NA
+DPOGS205340	DPOGS102235	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.06951	NA	hypothetical protein KGM_02235	NA	FBgn0034518
+DPOGS205390	DPOGS100475	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	PREDICTED: uncharacterized protein LOC101745971	NA	NA
+DPOGS205423	DPOGS100480	TRUE	TRUE	TRUE	NADH dehydrogenase 1 alpha subcomplex 13	1	Msex2.02848	FBgn0029868	nadh dehydrogenase 1 alpha subcomplex 13	NA	NA
+DPOGS205435	DPOGS122247	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_22247	Msex2.03518	NA
+DPOGS205439	DPOGS122249	TRUE	TRUE	TRUE	Odorant-binding protein 2	1	Msex2.03519	NA	odorant-binding protein 2	NA	FBgn0011280
+DPOGS205447	DPOGS101577	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_01577	Msex2.03522	FBgn0002174
+DPOGS205492	DPOGS110642	FALSE	FALSE	TRUE	26S proteasome non-ATPase regulatory subunit 1	1	Msex2.11418	FBgn0028692	26s proteasome non-atpase regulatory subunit 1	NA	NA
+DPOGS205498	DPOGS120124	FALSE	TRUE	TRUE	Actin-depolymerizing factor 1	1	Msex2.09592	NA	actin-depolymerizing factor 1	NA	FBgn0011726
+DPOGS205518	DPOGS112339	FALSE	FALSE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_12339	Msex2.13030	FBgn0040505
+DPOGS205536	DPOGS105734	FALSE	TRUE	TRUE	LRP16 protein	NA	NA	NA	lrp16 protein	Msex2.09598	FBgn0042135
+DPOGS205547	DPOGS104391	FALSE	TRUE	TRUE	Small heat shock protein	1	Msex2.00975	NA	small heat shock protein	NA	FBgn0011296
+DPOGS205558	NA	FALSE	TRUE	TRUE	NA	NA	NA	NA	ecdysteroid-inducible angiotensin-converting enzyme	Msex2.07568	FBgn0012037
+DPOGS205570	NA	FALSE	TRUE	TRUE	NA	1	Msex2.02883	FBgn0035799	wd repeat-containing protein 63-like	NA	NA
+DPOGS205583	DPOGS107659	FALSE	FALSE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_07659	Msex2.03872	FBgn0031244
+DPOGS205585	DPOGS117765	FALSE	TRUE	FALSE	NA	NA	NA	NA	NA	NA	NA
+DPOGS205592	DPOGS117909	FALSE	TRUE	TRUE	Isochorismatase domain containing protein	0.25	Msex2.02540	NA	isochorismatase domain containing protein	NA	FBgn0035044
+DPOGS205593	DPOGS109629	FALSE	FALSE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_09629	Msex2.13684	FBgn0030359
+DPOGS205606	DPOGS112262	TRUE	TRUE	TRUE	"Cytochrome b-c1 complex subunit 2, mitochondrial"	1	Msex2.07558	NA	cytochrome b-c1 complex subunit mitochondrial	NA	NA
+DPOGS205708	DPOGS106159	FALSE	TRUE	FALSE	Uncharacterized protein	1	Msex2.08627	NA	hypothetical protein KGM_06159	NA	FBgn0015286
+DPOGS205797	DPOGS120554	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.09544	FBgn0083960	hypothetical protein KGM_20554	NA	NA
+DPOGS205809	DPOGS122003	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA	NA
+DPOGS205815	DPOGS122009	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.02667	NA	hypothetical protein KGM_22009	NA	FBgn0028903
+DPOGS205955	DPOGS113538	FALSE	TRUE	FALSE	Uncharacterized protein	NA	NA	FBgn0039959	hypothetical protein KGM_13538	Msex2.11336	NA
+DPOGS205984	DPOGS105463	FALSE	TRUE	TRUE	40S ribosomal protein S16	1	Msex2.10562	NA	40s ribosomal protein s16	NA	FBgn0034743
+DPOGS205989	DPOGS115715	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.10570	FBgn0036214	hypothetical protein KGM_15715	NA	NA
+DPOGS206001	DPOGS107332	FALSE	TRUE	FALSE	Acetyltransferase 1	NA	NA	NA	acetyltransferase 1	Msex2.11605	FBgn0040064
+DPOGS206023	DPOGS121736	FALSE	FALSE	TRUE	NA	NA	NA	NA	NA	NA	NA
+DPOGS206035	DPOGS110867	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.04782	NA	hypothetical protein KGM_10867	NA	NA
+DPOGS206036	DPOGS110868	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_10868	Msex2.04783	NA
+DPOGS206037	NA	FALSE	TRUE	TRUE	NA	NA	NA	NA	NA	Msex2.04783	NA
+DPOGS206039	DPOGS110870	FALSE	TRUE	TRUE	Uncharacterized protein	1	Msex2.04785	NA	hypothetical protein KGM_10870	NA	NA
+DPOGS206045	DPOGS110876	FALSE	TRUE	TRUE	Angiopoietin-like 1	0.104	Msex2.05990	FBgn0050281	angiopoietin-like 1 precursor	NA	FBgn0030163
+DPOGS206069	DPOGS101724	TRUE	TRUE	TRUE	Serine/threonine-protein phosphatase (EC 3.1.3.16)	0.5	Msex2.10022	NA	calcineurin a	NA	FBgn0030758
+DPOGS206074	DPOGS101730	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_01730	Msex2.09193	FBgn0053196
+DPOGS206077	DPOGS111152	TRUE	TRUE	TRUE	Putative mitochondrial NADH:ubiquinone oxidoreductase ESSS subunit	NA	NA	NA	mitochondrial nadh:ubiquinone oxidoreductase esss subunit	Msex2.09188	FBgn0027785
+DPOGS206096	DPOGS111143	TRUE	TRUE	TRUE	4-aminobutyrate aminotransferase	1	Msex2.09179	NA	4-aminobutyrate aminotransferase	NA	FBgn0036927
+DPOGS206112	DPOGS107604	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_07604	Msex2.10030	FBgn0011785
+DPOGS206121	DPOGS107611	FALSE	FALSE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_07611	Msex2.01407	NA
+DPOGS206137	DPOGS110899	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.09094	NA	hypothetical protein KGM_10899	NA	NA
+DPOGS206139	DPOGS110901	TRUE	TRUE	TRUE	Putative sperm associated antigen 17	1	Msex2.09092	NA	sperm associated antigen 17	NA	NA
+DPOGS206192	DPOGS118432	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.13591	FBgn0019960	hypothetical protein KGM_18432	NA	NA
+DPOGS206193	DPOGS118432	FALSE	TRUE	TRUE	Uncharacterized protein	1	Msex2.13590	NA	hypothetical protein KGM_18432	NA	NA
+DPOGS206257	DPOGS106911	FALSE	TRUE	TRUE	Uncharacterized protein	1	Msex2.00727	NA	hypothetical protein KGM_06911	NA	FBgn0025839
+DPOGS206266	DPOGS100544	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_00544	NA	NA
+DPOGS206317	DPOGS103973	FALSE	TRUE	FALSE	Protein kinase C (EC 2.7.11.13)	NA	NA	NA	protein kinase c1	Msex2.04738	FBgn0003091
+DPOGS206343	DPOGS103293	TRUE	FALSE	FALSE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_03293	Msex2.00087	NA
+DPOGS206344	DPOGS103294	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.04745	NA	hypothetical protein KGM_03294	NA	NA
+DPOGS206365	DPOGS108594	FALSE	TRUE	TRUE	Uncharacterized protein	1	Msex2.08678	NA	hypothetical protein KGM_08594	NA	FBgn0264695
+DPOGS206401	DPOGS100601	FALSE	FALSE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_00601	Msex2.00948	FBgn0031286
+DPOGS206415	DPOGS114621	TRUE	FALSE	FALSE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_09530	Msex2.12953	FBgn0002774
+DPOGS206471	DPOGS118356	FALSE	TRUE	FALSE	NA	NA	NA	NA	NA	NA	NA
+DPOGS206517	DPOGS101700	TRUE	TRUE	TRUE	Testis specific tektin	0.2	Msex2.09579	FBgn0028902	testis specific tektin	Msex2.09578	NA
+DPOGS206518	DPOGS101701	TRUE	TRUE	TRUE	Testis specific tektin	NA	NA	NA	testis specific tektin	NA	NA
+DPOGS206535	DPOGS103021	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.07147	NA	hypothetical protein KGM_03021	NA	FBgn0000299
+DPOGS206549	DPOGS103034	FALSE	TRUE	TRUE	Putative collagen alpha-2IV chain protein	NA	NA	NA	collagen alpha-2iv chain protein	Msex2.07146	FBgn0016075
+DPOGS206625	DPOGS111950	FALSE	FALSE	TRUE	Shaggy	1	Msex2.00524	FBgn0046332	glycogen synthase kinase-3 beta isoform x1	NA	FBgn0003371
+DPOGS206636	DPOGS119147	FALSE	TRUE	FALSE	Putative deoxyribonuclease ii	NA	NA	NA	deoxyribonuclease ii	Msex2.00513	FBgn0000477
+DPOGS206670	DPOGS110448	TRUE	TRUE	TRUE	Serine/threonine-protein phosphatase (EC 3.1.3.16)	0.167	Msex2.00519	FBgn0003134	protein phosphatase catalytic beta isoform 1	NA	FBgn0000711
+DPOGS206681	DPOGS100530	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_00530	NA	NA
+DPOGS206704	DPOGS104171	FALSE	TRUE	FALSE	NA	NA	NA	NA	NA	NA	NA
+DPOGS206797	DPOGS115206	TRUE	TRUE	TRUE	Leucyl aminopeptidase-like protein	NA	NA	NA	projectin-like protein	Msex2.11628	FBgn0035410
+DPOGS206801	DPOGS115369	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA	NA
+DPOGS206805	DPOGS115373	FALSE	TRUE	FALSE	Uncharacterized protein	1	Msex2.11880	NA	hypothetical protein KGM_15373	NA	FBgn0034661
+DPOGS206819	DPOGS115387	TRUE	TRUE	TRUE	Uncharacterized protein	0.5	Msex2.09886	FBgn0026141	dynein light chain cytoplasmic-like isoform x2	NA	NA
+DPOGS206858	DPOGS115428	FALSE	FALSE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_15428	Msex2.03596	FBgn0034535
+DPOGS206873	NA	TRUE	TRUE	TRUE	NA	NA	NA	NA	PREDICTED: uncharacterized protein LOC101745475 isoform X2	NA	NA
+DPOGS206930	DPOGS115507	TRUE	TRUE	TRUE	High choriolytic enzyme 1	NA	NA	NA	high choriolytic enzyme 1	Msex2.05067	FBgn0030947
+DPOGS206959	DPOGS119830	TRUE	TRUE	TRUE	Fructose-bisphosphate aldolase (EC 4.1.2.13)	NA	NA	NA	fructose -bisphosphate aldolase	Msex2.12780	FBgn0000064
+DPOGS207000	DPOGS115549	TRUE	FALSE	FALSE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_15549	Msex2.05082	FBgn0026059
+DPOGS207006	DPOGS115555	TRUE	TRUE	TRUE	NAS-15 protein	1	Msex2.05068	NA	nas-15 protein	NA	FBgn0030947
+DPOGS207070	DPOGS115622	FALSE	TRUE	TRUE	Uncharacterized protein	1	Msex2.13576	NA	hypothetical protein KGM_15622	NA	FBgn0030038
+DPOGS207099	DPOGS115415	FALSE	TRUE	FALSE	Uncharacterized protein	NA	NA	NA	PREDICTED: ataxin-2-like protein-like	Msex2.01566	FBgn0041188
+DPOGS207101	DPOGS115654	TRUE	TRUE	TRUE	Malate dehydrogenase (EC 1.1.1.37)	1	Msex2.01570	NA	mitochondrial malate dehydrogenase	NA	FBgn0262559
+DPOGS207155	DPOGS115706	FALSE	TRUE	FALSE	Miniparamyosin	NA	NA	NA	miniparamyosin	Msex2.01383	FBgn0003149
+DPOGS207167	DPOGS115157	FALSE	TRUE	FALSE	NA	NA	NA	NA	NA	NA	NA
+DPOGS207168	DPOGS115158	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_15158	Msex2.09948	NA
+DPOGS207193	NA	FALSE	FALSE	TRUE	NA	0.333	Msex2.03421	NA	seminal fluid protein hacp035	NA	FBgn0003137
+DPOGS207222	DPOGS119415	FALSE	TRUE	FALSE	Roadblock	0.104	Msex2.07219	NA	roadblock	Msex2.04683	FBgn0024196
+DPOGS207236	DPOGS101109	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_01109	NA	NA
+DPOGS207263	DPOGS119654	FALSE	TRUE	TRUE	Putative WW domain-binding protein	1	Msex2.06133	NA	ww domain-binding protein	NA	FBgn0036318
+DPOGS207276	DPOGS114743	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.01039	NA	hypothetical protein KGM_14743	NA	FBgn0024889
+DPOGS207282	DPOGS114750	FALSE	TRUE	FALSE	NA	NA	NA	NA	NA	NA	NA
+DPOGS207283	DPOGS114751	FALSE	TRUE	TRUE	Rm62	1	Msex2.01032	NA	Rm62	NA	NA
+DPOGS207284	DPOGS114753	FALSE	FALSE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_14753	Msex2.05569	NA
+DPOGS207285	DPOGS114754	FALSE	FALSE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_14754	Msex2.01031	NA
+DPOGS207327	DPOGS100674	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_00674	Msex2.12469	NA
+DPOGS207378	NA	FALSE	FALSE	TRUE	NA	NA	NA	NA	PREDICTED: uncharacterized protein LOC101737375	NA	NA
+DPOGS207380	DPOGS118475	FALSE	TRUE	TRUE	Uncharacterized protein	1	Msex2.01651	NA	hypothetical protein KGM_18475	NA	NA
+DPOGS207382	DPOGS118477	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_18477	Msex2.01647	FBgn0027779
+DPOGS207386	DPOGS118481	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.01643	FBgn0030004	hypothetical protein KGM_18481	NA	NA
+DPOGS207388	DPOGS118483	FALSE	TRUE	TRUE	Putative tryptase 5	NA	NA	NA	tryptase 5	Msex2.01640	FBgn0038482
+DPOGS207396	DPOGS120846	FALSE	TRUE	TRUE	Uncharacterized protein	1	Msex2.01630	NA	hypothetical protein KGM_20846	NA	NA
+DPOGS207401	DPOGS107460	FALSE	TRUE	TRUE	Uncharacterized protein	1	Msex2.01447	NA	hypothetical protein KGM_07460	NA	NA
+DPOGS207402	DPOGS107461	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.01446	FBgn0031476	hypothetical protein KGM_07461	NA	NA
+DPOGS207406	DPOGS113557	FALSE	FALSE	TRUE	Uncharacterized protein	1	Msex2.01437	NA	hypothetical protein KGM_13557	NA	FBgn0266449
+DPOGS207418	DPOGS113561	FALSE	TRUE	FALSE	NA	NA	NA	NA	NA	NA	NA
+DPOGS207426	DPOGS107463	TRUE	TRUE	FALSE	Uncharacterized protein	1	Msex2.01444	NA	hypothetical protein KGM_07463	NA	NA
+DPOGS207441	DPOGS100056	FALSE	TRUE	TRUE	Uncharacterized protein	1	Msex2.08236	FBgn0023143	hypothetical protein KGM_00056	NA	NA
+DPOGS207454	DPOGS105263	FALSE	TRUE	TRUE	Ferritin-like protein 1	NA	NA	NA	ferritin-like protein 1	Msex2.10679	FBgn0015222
+DPOGS207478	DPOGS105274	TRUE	FALSE	FALSE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_05274	NA	FBgn0266083
+DPOGS207515	DPOGS117316	FALSE	TRUE	FALSE	NA	NA	NA	NA	NA	NA	NA
+DPOGS207526	DPOGS117326	FALSE	TRUE	TRUE	Putative structural component of insect carboxypeptidase	NA	NA	NA	structural component of insect carboxypeptidase	Msex2.05221	FBgn0035776
+DPOGS207528	DPOGS117328	FALSE	TRUE	TRUE	Uncharacterized protein	1	Msex2.05220	NA	hypothetical protein KGM_17328	NA	FBgn0029804
+DPOGS207540	DPOGS106243	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.07364	NA	hypothetical protein KGM_06243	NA	NA
+DPOGS207542	DPOGS106246	FALSE	TRUE	FALSE	Actin	NA	NA	NA	"actin, partial"	Msex2.07366	FBgn0000044
+DPOGS207580	DPOGS102682	FALSE	FALSE	TRUE	Putative dipeptidyl peptidase iii	1	Msex2.06104	NA	dipeptidyl peptidase iii	NA	FBgn0037580
+DPOGS207582	DPOGS115024	FALSE	FALSE	TRUE	Uncharacterized protein	NA	NA	FBgn0261532	hypothetical protein KGM_03144	Msex2.06110	NA
+DPOGS207595	DPOGS116635	TRUE	TRUE	TRUE	Pre-mRNA-splicing factor ISY1-like protein	NA	NA	NA	pre-mrna-splicing factor isy1-like protein	Msex2.08072	FBgn0037550
+DPOGS207628	DPOGS100659	TRUE	TRUE	TRUE	NADH dehydrogenase flavoprotein 1 ubiquinone	1	Msex2.02052	NA	nadh dehydrogenase flavoprotein 1 ubiquinone	NA	FBgn0031771
+DPOGS207641	DPOGS110349	TRUE	TRUE	TRUE	Putative cAMP-dependent protein kinase catalytic subunit	NA	NA	NA	camp-dependent protein kinase catalytic subunit alpha-like	Msex2.02045	FBgn0000273
+DPOGS207733	DPOGS122223	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_22223	Msex2.02267	NA
+DPOGS207750	DPOGS100780	FALSE	TRUE	FALSE	Putative zinc finger protein	NA	NA	NA	zinc finger protein	Msex2.06618	FBgn0032979
+DPOGS207775	DPOGS122219	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.08816	FBgn0030691	hypothetical protein KGM_22219	NA	NA
+DPOGS207824	DPOGS110020	TRUE	TRUE	TRUE	"Cytochrome c oxidase subunit 6A, mitochondrial (Cytochrome c oxidase polypeptide VIa)"	1	Msex2.02259	NA	mitochondrial cytochrome c oxidase subunit via	NA	FBgn0034877
+DPOGS207829	DPOGS105997	FALSE	FALSE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_05997	Msex2.02268	NA
+DPOGS207830	DPOGS105998	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_05998	Msex2.02268	NA
+DPOGS207855	DPOGS122134	FALSE	TRUE	TRUE	Uncharacterized protein	1	Msex2.02301	NA	hypothetical protein KGM_22134	NA	FBgn0033705
+DPOGS207874	DPOGS106524	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_06524	Msex2.00471	FBgn0025613
+DPOGS207944	DPOGS117466	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.06356	NA	hypothetical protein KGM_17466	NA	NA
+DPOGS207945	DPOGS117466	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_17466	Msex2.06356	FBgn0001145
+DPOGS207987	DPOGS113405	TRUE	TRUE	TRUE	Cuticular protein RR-1 motif 32	NA	NA	NA	tpa cuticle protein	Msex2.11891	FBgn0050045
+DPOGS207993	DPOGS106001	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_06001	NA	NA
+DPOGS208018	NA	FALSE	FALSE	TRUE	NA	NA	NA	NA	peritrophin 1	Msex2.00706	FBgn0036203
+DPOGS208083	DPOGS108846	FALSE	TRUE	TRUE	ABC transporter family C protein ABCC2	NA	NA	NA	abc transporter family c protein abcc2	Msex2.11131	NA
+DPOGS208095	DPOGS101382	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.11301	NA	hypothetical protein KGM_01382	NA	NA
+DPOGS208096	DPOGS101382	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_01382	Msex2.11303	NA
+DPOGS208097	DPOGS101383	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_01383	Msex2.11304	NA
+DPOGS208105	DPOGS101393	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_01393	NA	NA
+DPOGS208111	DPOGS105964	TRUE	FALSE	FALSE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_05964	Msex2.01322	FBgn0050085
+DPOGS208117	DPOGS108221	TRUE	FALSE	FALSE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_08221	Msex2.01313	FBgn0262579
+DPOGS208145	DPOGS121184	TRUE	TRUE	TRUE	Uncharacterized protein	0.5	Msex2.12226	NA	hypothetical protein KGM_21184	NA	FBgn0086691
+DPOGS208155	DPOGS120523	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	FBgn0038598	hypothetical protein KGM_20523	Msex2.15480	NA
+DPOGS208164	DPOGS121924	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_21924	Msex2.14483	FBgn0051704
+DPOGS208170	DPOGS100278	FALSE	TRUE	TRUE	Putative soluble adenylyl cyclase	NA	NA	NA	soluble adenylyl cyclase	Msex2.03772	FBgn0261436
+DPOGS208175	DPOGS116940	TRUE	TRUE	TRUE	Dynein molecular motor protein light chain 1	1	Msex2.03780	NA	dynein molecular motor protein light chain 1	NA	FBgn0024432
+DPOGS208185	DPOGS100282	TRUE	TRUE	TRUE	Putative succinyl-CoA synthetase small subunit	1	Msex2.03776	NA	succinyl- synthetase small subunit	NA	FBgn0004888
+DPOGS208210	DPOGS106106	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_06106	Msex2.13581	NA
+DPOGS208303	DPOGS107262	FALSE	FALSE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_07262	Msex2.00836	NA
+DPOGS208350	DPOGS121876	FALSE	FALSE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_21876	NA	NA
+DPOGS208359	DPOGS109505	FALSE	TRUE	TRUE	NA	NA	NA	NA	NA	NA	NA
+DPOGS208360	DPOGS121878	FALSE	FALSE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_21878	Msex2.13435	NA
+DPOGS208370	DPOGS103912	TRUE	TRUE	TRUE	Putative succinate dehydrogenase	1	Msex2.01421	NA	succinate dehydrogenase	NA	FBgn0037873
+DPOGS208377	DPOGS103921	TRUE	TRUE	TRUE	Glutamate dehydrogenase	0.333	Msex2.09227	FBgn0039071	glutamate dehydrogenase	NA	FBgn0001098
+DPOGS208385	DPOGS110629	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.01405	NA	hypothetical protein KGM_10629	NA	NA
+DPOGS208416	DPOGS110254	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_10254	Msex2.07527	NA
+DPOGS208439	DPOGS119049	FALSE	FALSE	TRUE	Uncharacterized protein	1	Msex2.04432	NA	unknown secreted protein	NA	FBgn0033872
+DPOGS208460	DPOGS116551	TRUE	TRUE	FALSE	Cadherin-like protein	NA	NA	FBgn0001075	cadherin-like protein	Msex2.07855	NA
+DPOGS208521	DPOGS113380	FALSE	TRUE	TRUE	Uncharacterized protein	1	Msex2.00420	NA	hypothetical protein KGM_13380	NA	NA
+DPOGS208556	DPOGS115744	TRUE	FALSE	FALSE	Uncharacterized protein	NA	NA	FBgn0027505	hypothetical protein KGM_15744	Msex2.14440	NA
+DPOGS208560	DPOGS108715	TRUE	TRUE	FALSE	Putative hect E3 ubiquitin ligase	NA	NA	NA	hect e3 ubiquitin ligase	Msex2.09054	FBgn0032208
+DPOGS208563	DPOGS105907	FALSE	TRUE	FALSE	Uncharacterized protein	1	Msex2.09047	NA	hypothetical protein KGM_05907	NA	NA
+DPOGS208593	DPOGS100314	FALSE	FALSE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_00314	NA	FBgn0053978
+DPOGS208602	DPOGS111953	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_11953	Msex2.10807	FBgn0051954
+DPOGS208612	DPOGS100313	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_00312	Msex2.12322	FBgn0261788
+DPOGS208650	DPOGS119304	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.09793	FBgn0037643	hypothetical protein KGM_19304	NA	NA
+DPOGS208656	DPOGS119310	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.09783	NA	hypothetical protein KGM_19310	NA	FBgn0034487
+DPOGS208663	DPOGS119555	FALSE	TRUE	FALSE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_19555	NA	NA
+DPOGS208675	DPOGS112890	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_12890	Msex2.04088	NA
+DPOGS208713	DPOGS120864	FALSE	TRUE	TRUE	Putative ATP-dependent bile acid permease	NA	NA	NA	atp-dependent bile acid permease	Msex2.08194	FBgn0032026
+DPOGS208719	DPOGS104470	FALSE	TRUE	TRUE	C-type lectin 17	NA	NA	NA	c-type lectin 17	Msex2.08206	FBgn0039741
+DPOGS208750	DPOGS105295	TRUE	TRUE	TRUE	Ribosomal protein L1	1	Msex2.04108	NA	ribosomal protein l1	NA	FBgn0036213
+DPOGS208752	DPOGS111404	TRUE	FALSE	FALSE	Uncharacterized protein	NA	NA	FBgn0038016	hypothetical protein KGM_11404	Msex2.04103	NA
+DPOGS208773	DPOGS122176	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.10248	NA	hypothetical protein KGM_22176	NA	FBgn0039799
+DPOGS208777	DPOGS117687	FALSE	FALSE	TRUE	NA	NA	NA	NA	hypothetical protein KGM_04810	Msex2.10255	FBgn0040068
+DPOGS208793	DPOGS100929	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_00929	Msex2.04864	NA
+DPOGS208803	DPOGS105647	FALSE	FALSE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_05647	NA	NA
+DPOGS208804	DPOGS105648	FALSE	FALSE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_05648	Msex2.04875	NA
+DPOGS208810	DPOGS105652	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.04888	FBgn0033610	hypothetical protein KGM_05652	NA	NA
+DPOGS208811	DPOGS105885	FALSE	TRUE	FALSE	Uncharacterized protein	NA	NA	NA	probable elongator complex protein 3-like	NA	FBgn0031604
+DPOGS208819	DPOGS103569	FALSE	TRUE	TRUE	Uncharacterized protein	1	Msex2.04871	NA	hypothetical protein KGM_03569	NA	NA
+DPOGS208874	DPOGS115093	FALSE	FALSE	TRUE	Pyruvate kinase	NA	NA	NA	pyruvate kinase	Msex2.00631	FBgn0031462
+DPOGS208875	DPOGS115094	FALSE	FALSE	TRUE	Pyruvate kinase (EC 2.7.1.40)	NA	NA	NA	pyruvate kinase	NA	FBgn0003178
+DPOGS208876	DPOGS115095	FALSE	TRUE	TRUE	Pyruvate kinase (EC 2.7.1.40)	NA	NA	NA	pyruvate kinase	Msex2.00630	FBgn0003178
+DPOGS208881	DPOGS120928	TRUE	TRUE	TRUE	DnaJ-like protein 2	1	Msex2.00685	NA	DnaJ	NA	FBgn0038145
+DPOGS208883	NA	TRUE	TRUE	TRUE	NA	1	Msex2.00684	NA	glycerol-3-phosphate partial	NA	FBgn0001128
+DPOGS208922	DPOGS114787	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_14787	NA	NA
+DPOGS208927	DPOGS114792	TRUE	FALSE	FALSE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_14791	Msex2.08650	FBgn0023518
+DPOGS208934	DPOGS114797	FALSE	TRUE	FALSE	GTP-binding protein sar1	NA	NA	NA	gtp-binding protein sar1	Msex2.08649	FBgn0038947
+DPOGS208941	DPOGS114805	FALSE	TRUE	TRUE	2-oxoglutarate dehydrogenase	0.146	Msex2.04496	FBgn0010352	2-oxoglutarate dehydrogenase	NA	NA
+DPOGS208946	DPOGS114812	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.09315	NA	hypothetical protein KGM_14812	NA	FBgn0036726
+DPOGS208949	DPOGS115053	FALSE	FALSE	TRUE	Putative Tubby	NA	NA	NA	putative Tubby	Msex2.09319	FBgn0039530
+DPOGS208988	DPOGS120806	FALSE	TRUE	FALSE	Uncharacterized protein	1	Msex2.00643	NA	hypothetical protein KGM_20806	NA	NA
+DPOGS209002	DPOGS122583	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_22583	NA	NA
+DPOGS209009	DPOGS113763	TRUE	TRUE	TRUE	ATP synthase subunit beta (EC 3.6.3.14)	0.6	Msex2.05734	FBgn0010217	h+ transporting atp synthase beta subunit isoform 2	Msex2.00696	NA
+DPOGS209027	DPOGS121116	FALSE	FALSE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_21115	Msex2.03233	FBgn0038693
+DPOGS209079	DPOGS118550	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.08184	FBgn0035581	hypothetical protein KGM_18550	NA	NA
+DPOGS209112	DPOGS122382	TRUE	TRUE	TRUE	Putative Artemis protein	NA	NA	NA	artemis protein	Msex2.13560	FBgn0037338
+DPOGS209118	DPOGS103742	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_03742	Msex2.13916	NA
+DPOGS209134	DPOGS114261	FALSE	TRUE	TRUE	Superoxide dismutase [Cu-Zn] (EC 1.15.1.1)	1	Msex2.00386	FBgn0003462	superoxide dismutase	NA	NA
+DPOGS209136	DPOGS103341	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.00391	NA	hypothetical protein KGM_03341	NA	FBgn0003884
+DPOGS209137	DPOGS103343	TRUE	TRUE	TRUE	Putative Cytosol aminopeptidase	0.2	Msex2.00393	FBgn0052064	cytosol aminopeptidase	NA	FBgn0033868
+DPOGS209162	DPOGS102724	FALSE	FALSE	TRUE	Uncharacterized protein	NA	NA	NA	cytosolic purine 5 -nucleotidase-like isoform x3	Msex2.05623	FBgn0052549
+DPOGS209294	DPOGS117207	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_17207	Msex2.04003	FBgn0029813
+DPOGS209305	DPOGS100347	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.13050	FBgn0039104	hypothetical protein KGM_00347	NA	NA
+DPOGS209345	DPOGS118855	TRUE	TRUE	TRUE	Phosphate transport protein	NA	NA	NA	phosphate transport protein	NA	FBgn0026409
+DPOGS209357	DPOGS112791	FALSE	TRUE	FALSE	Putative tuberous sclerosis 2 isoform 3	NA	NA	NA	tuberous sclerosis 2 isoform 3	Msex2.09700	FBgn0005198
+DPOGS209405	DPOGS103368	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_03178	NA	NA
+DPOGS209406	DPOGS103368	FALSE	FALSE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_03368	Msex2.04775	NA
+DPOGS209449	DPOGS116085	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.11389	NA	wd repeat-containing protein on y chromosome-like	NA	FBgn0085498
+DPOGS209457	DPOGS116093	FALSE	FALSE	TRUE	NA	NA	NA	NA	NA	NA	NA
+DPOGS209573	DPOGS100402	FALSE	FALSE	TRUE	Putative axonemal dynein intermediate chain inner arm i1	NA	NA	NA	axonemal dynein intermediate chain inner arm i1	NA	FBgn0035256
+DPOGS209581	DPOGS100412	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.12016	NA	hypothetical protein KGM_00412	NA	NA
+DPOGS209582	DPOGS100413	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_00413	NA	NA
+DPOGS209599	DPOGS109872	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_09872	Msex2.13047	FBgn0031596
+DPOGS209637	DPOGS100381	TRUE	TRUE	TRUE	Glutamine synthetase	NA	NA	NA	glutamine synthetase	Msex2.05053	FBgn0001142
+DPOGS209638	DPOGS100382	TRUE	TRUE	TRUE	Uncharacterized protein	0.333	Msex2.05052	NA	glutamine synthetase mitochondrial-like	NA	FBgn0001142
+DPOGS209641	NA	FALSE	TRUE	FALSE	NA	1	Msex2.05047	NA	PREDICTED: uncharacterized protein LOC101742028	NA	NA
+DPOGS209648	DPOGS100392	TRUE	TRUE	TRUE	Armc4	1	Msex2.05036	FBgn0031905	armc4	NA	NA
+DPOGS209668	DPOGS101280	FALSE	FALSE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_01280	Msex2.04795	NA
+DPOGS209670	DPOGS101282	TRUE	TRUE	TRUE	Catalase (EC 1.11.1.6)	NA	NA	FBgn0000261	catalase	Msex2.03412	NA
+DPOGS209680	DPOGS112088	FALSE	FALSE	TRUE	NA	NA	NA	NA	NA	NA	NA
+DPOGS209688	DPOGS101293	TRUE	FALSE	FALSE	Uncharacterized protein	NA	NA	FBgn0023213	hypothetical protein KGM_01293	Msex2.04794	NA
+DPOGS209706	DPOGS121325	FALSE	TRUE	TRUE	Putative malate dehydrogenase	NA	NA	NA	malate dehydrogenase	Msex2.02574	FBgn0262559
+DPOGS209741	DPOGS122196	TRUE	TRUE	TRUE	Putative voltage-dependent anion-selective channel isoform 1	1	Msex2.06044	FBgn0004363	voltage-dependent anion-selective channel-like isoform x1	NA	NA
+DPOGS209745	DPOGS122201	FALSE	TRUE	FALSE	NA	NA	NA	NA	NA	NA	NA
+DPOGS209750	DPOGS119896	FALSE	TRUE	TRUE	Pyridoxine 5'-phosphate oxidase	NA	NA	NA	pyridoxine 5 -phosphate oxidase	Msex2.00141	FBgn0051472
+DPOGS209756	DPOGS119902	FALSE	TRUE	TRUE	Cuticular protein hypothetical 5	NA	NA	NA	cuticular protein hypothetical 5	Msex2.02299	FBgn0050259
+DPOGS209764	DPOGS119908	FALSE	TRUE	TRUE	Putative malate dehydrogenase	NA	NA	NA	malate dehydrogenase	NA	FBgn0262559
+DPOGS209778	DPOGS114306	FALSE	FALSE	TRUE	Light-induced protein-like brain protein 44	1	Msex2.09872	NA	light-induced brain protein 44	NA	FBgn0037715
+DPOGS209786	DPOGS101343	FALSE	TRUE	TRUE	V-type proton ATPase subunit F	NA	NA	NA	v-type proton atpase subunit f	Msex2.05170	FBgn0262512
+DPOGS209787	DPOGS101344	TRUE	FALSE	FALSE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_01344	Msex2.05167	FBgn0036522
+DPOGS209804	DPOGS107980	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_07980	NA	NA
+DPOGS209817	DPOGS107977	FALSE	FALSE	TRUE	Putative major antigen	1	Msex2.10583	NA	major antigen	NA	FBgn0027843
+DPOGS209841	DPOGS101336	FALSE	TRUE	FALSE	Uncharacterized protein	1	Msex2.05163	NA	aminopeptidase n-like precursor	NA	FBgn0038926
+DPOGS209915	DPOGS119933	TRUE	TRUE	TRUE	Uncharacterized protein	0.333	Msex2.02721	NA	hypothetical protein KGM_19933	NA	FBgn0034467
+DPOGS209940	DPOGS120866	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA	NA
+DPOGS209956	DPOGS105847	FALSE	TRUE	FALSE	Ubiquitin-40S ribosomal protein S27a	NA	NA	NA	hypothetical protein AND_009492	Msex2.15521	FBgn0025366
+DPOGS209980	DPOGS105867	TRUE	TRUE	FALSE	Methionine-rich storage protein	NA	NA	NA	methionine-rich storage protein	Msex2.10735	NA
+DPOGS209988	DPOGS105875	TRUE	FALSE	FALSE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_05875	Msex2.10741	FBgn0037344
+DPOGS210008	DPOGS116060	FALSE	FALSE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_16060	Msex2.08464	FBgn0264294
+DPOGS210035	DPOGS113043	TRUE	FALSE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_13043	Msex2.12737	NA
+DPOGS210044	DPOGS120294	FALSE	FALSE	TRUE	Alpha amylase	NA	NA	NA	alpha amylase	Msex2.09215	FBgn0032382
+DPOGS210074	DPOGS113724	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_13724	Msex2.13840	NA
+DPOGS210077	DPOGS108518	FALSE	TRUE	TRUE	Putative ATP-binding cassette sub-family B member 7	1	Msex2.11947	NA	atp-binding cassette sub-family b member 7	NA	FBgn0035244
+DPOGS210124	DPOGS113034	FALSE	TRUE	FALSE	Calcyphosphine isoform 1	NA	NA	NA	calcyphosphine isoform 1	Msex2.12734	FBgn0038088
+DPOGS210140	DPOGS120598	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_02133	Msex2.00253	FBgn0263120
+DPOGS210146	DPOGS107027	FALSE	TRUE	TRUE	Serine protease 48	1	Msex2.02853	NA	serine protease 48	NA	FBgn0040060
+DPOGS210185	DPOGS122057	TRUE	TRUE	TRUE	Putative coiled-coil domain-containing protein 113	NA	NA	NA	coiled-coil domain-containing protein 113-like	NA	FBgn0031235
+DPOGS210201	DPOGS114837	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_14837	Msex2.02157	FBgn0035082
+DPOGS210250	DPOGS114925	TRUE	TRUE	TRUE	Heat shock 70 kDa protein cognate 4	0.6	Msex2.07584	NA	hypothetical protein TcasGA2_TC002089	NA	FBgn0266599
+DPOGS210282	DPOGS108358	FALSE	TRUE	TRUE	Fumarylacetoacetase	0.2	Msex2.13593	NA	fumarylacetoacetate hydrolase isoform b	Msex2.06170	FBgn0038924
+DPOGS210288	DPOGS109948	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_09948	NA	NA
+DPOGS210289	DPOGS113109	TRUE	TRUE	TRUE	Uncharacterized protein	0.146	Msex2.09827	FBgn0046323	hypothetical protein KGM_13109	NA	NA
+DPOGS210344	DPOGS112959	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	FBgn0261260	low-density lipoprotein receptor-related protein 2-like	Msex2.07635	NA
+DPOGS210345	DPOGS112960	FALSE	FALSE	TRUE	Putative alanine aminotransferase	NA	NA	NA	alanine aminotransferase	Msex2.07639	FBgn0030478
+DPOGS210346	DPOGS112960	TRUE	TRUE	TRUE	Putative alanine aminotransferase	NA	NA	NA	alanine aminotransferase	NA	NA
+DPOGS210353	DPOGS112954	FALSE	TRUE	TRUE	Uncharacterized protein	1	Msex2.07640	NA	hypothetical protein KGM_12954	NA	NA
+DPOGS210385	DPOGS101822	TRUE	TRUE	TRUE	NA	NA	NA	NA	NA	NA	NA
+DPOGS210389	DPOGS115242	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_15242	Msex2.15229	NA
+DPOGS210434	DPOGS122392	FALSE	TRUE	TRUE	NA	NA	NA	NA	NA	NA	NA
+DPOGS210435	DPOGS107824	TRUE	TRUE	TRUE	ATP synthase subunit alpha	1	Msex2.08530	FBgn0011211	atp synthase	NA	NA
+DPOGS210452	DPOGS107694	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.08723	FBgn0013813	low quality protein: dynein heavy chain axonemal-like	NA	NA
+DPOGS210459	DPOGS107829	FALSE	TRUE	TRUE	Uncharacterized protein	1	Msex2.08734	NA	hypothetical protein KGM_07828	NA	NA
+DPOGS210522	DPOGS114394	FALSE	TRUE	FALSE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_14394	Msex2.05774	FBgn0036254
+DPOGS210536	NA	FALSE	TRUE	FALSE	NA	NA	NA	NA	tctex1 domain-containing protein 1-a-like	NA	FBgn0033243
+DPOGS210547	DPOGS100158	FALSE	TRUE	TRUE	Putative choline o-acyltransferase	NA	NA	NA	choline o-acyltransferase	Msex2.04244	NA
+DPOGS210548	DPOGS100158	FALSE	TRUE	TRUE	Putative choline o-acyltransferase	NA	NA	NA	choline o-acyltransferase	NA	NA
+DPOGS210552	DPOGS121410	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.04248	FBgn0038163	PREDICTED: uncharacterized protein LOC101740137	NA	NA
+DPOGS210648	DPOGS118332	TRUE	TRUE	TRUE	Ferrochelatase	NA	NA	NA	putative ferrochelatase	Msex2.13808	FBgn0266268
+DPOGS210661	DPOGS102647	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_02647	Msex2.12808	NA
+DPOGS210662	DPOGS120546	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_02648	Msex2.02110	FBgn0000454
+DPOGS210664	DPOGS120548	FALSE	TRUE	TRUE	Hatching enzyme	NA	NA	NA	hatching enzyme	Msex2.12808	FBgn0039180
+DPOGS210672	DPOGS108863	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.09336	FBgn0034816	hypothetical protein KGM_08863	NA	NA
+DPOGS210682	DPOGS111595	FALSE	TRUE	TRUE	Amyloid beta A4 protein	NA	NA	NA	amyloid beta a4 protein	Msex2.13440	FBgn0031564
+DPOGS210700	DPOGS107984	TRUE	TRUE	TRUE	Uncharacterized protein	0.333	Msex2.02432	NA	hypothetical protein KGM_07984	NA	FBgn0001230
+DPOGS210708	DPOGS114531	TRUE	TRUE	TRUE	Putative farnesoic acid O-methyl transferase	NA	NA	NA	farnesoic acid o-methyl transferase	Msex2.02440	FBgn0033787
+DPOGS210715	DPOGS121053	FALSE	FALSE	TRUE	NA	NA	NA	NA	NA	NA	NA
+DPOGS210743	DPOGS101805	FALSE	TRUE	TRUE	Putative collagen alpha-2	NA	NA	NA	collagen alpha-2 precursor	Msex2.02443	FBgn0000299
+DPOGS210790	DPOGS117729	FALSE	TRUE	FALSE	Putative hydroxyacyl glutathione hydrolase	1	Msex2.11589	NA	hydroxyacyl glutathione hydrolase	NA	FBgn0037024
+DPOGS210800	DPOGS112988	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.04660	NA	hypothetical protein KGM_12988	NA	NA
+DPOGS210806	DPOGS116016	TRUE	TRUE	TRUE	Uncharacterized protein	0.5	Msex2.04652	FBgn0037862	aconitate mitochondrial-like	NA	FBgn0010100
+DPOGS210821	DPOGS106591	TRUE	TRUE	TRUE	Putative sulfide quinone reductase	1	Msex2.06427	NA	sulfide quinone reductase	NA	FBgn0035515
+DPOGS210830	DPOGS110957	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_10957	NA	NA
+DPOGS210866	DPOGS112987	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.04661	NA	hypothetical protein KGM_12987	NA	NA
+DPOGS210891	DPOGS119688	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.00265	NA	hypothetical protein KGM_19688	NA	FBgn0036348
+DPOGS210924	DPOGS111759	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_11759	Msex2.00281	NA
+DPOGS210934	DPOGS119709	TRUE	FALSE	FALSE	Putative fragile site-associated protein	NA	NA	FBgn0261671	hypothetical protein KGM_19707	Msex2.00264	NA
+DPOGS210951	DPOGS119463	FALSE	TRUE	TRUE	Uncharacterized protein	1	Msex2.00609	NA	hypothetical protein KGM_19463	NA	FBgn0037671
+DPOGS210956	DPOGS112327	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.00617	FBgn0038960	hypothetical protein KGM_12327	NA	NA
+DPOGS210981	DPOGS110937	FALSE	TRUE	FALSE	Serine protease-like protein	NA	NA	NA	serine protease-like protein	Msex2.12491	FBgn0036436
+DPOGS210982	DPOGS110938	TRUE	TRUE	TRUE	Serine protease like protein	NA	NA	NA	serine protease like protein	Msex2.12488	FBgn0031619
+DPOGS211012	DPOGS119452	FALSE	TRUE	FALSE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_19452	Msex2.03488	FBgn0263974
+DPOGS211019	DPOGS119459	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_19459	Msex2.00605	FBgn0052436
+DPOGS211021	DPOGS106945	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.00600	NA	hypothetical protein KGM_06945	NA	NA
+DPOGS211065	DPOGS107525	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_07525	NA	NA
+DPOGS211068	DPOGS108038	TRUE	TRUE	TRUE	NA	NA	NA	NA	NA	Msex2.01765	NA
+DPOGS211069	DPOGS101946	FALSE	TRUE	TRUE	Putative proton-coupled amino acid transporter 1	1	Msex2.01762	NA	proton-coupled amino acid transporter	NA	FBgn0263776
+DPOGS211070	DPOGS106625	FALSE	FALSE	TRUE	Ryanodine receptor	NA	NA	FBgn0011286	ryanodine receptor	Msex2.01767	NA
+DPOGS211075	DPOGS115074	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	PREDICTED: uncharacterized protein LOC101744763	Msex2.06535	NA
+DPOGS211080	DPOGS100028	TRUE	FALSE	FALSE	Chitin synthase	NA	NA	NA	chitin synthase	Msex2.14283	FBgn0001311
+DPOGS211101	DPOGS122447	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_22447	NA	NA
+DPOGS211102	DPOGS122447	FALSE	FALSE	TRUE	Uncharacterized protein	1	Msex2.10356	NA	hypothetical protein KGM_22447	NA	NA
+DPOGS211107	DPOGS109740	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_09740	Msex2.11647	NA
+DPOGS211175	DPOGS101646	TRUE	TRUE	TRUE	Putative hydrocephalus inducing	1	Msex2.11152	NA	hydrocephalus inducing	NA	NA
+DPOGS211176	DPOGS101647	TRUE	TRUE	TRUE	Transmembrane BAX inhibitor motif-containing protein 5	0.5	Msex2.11150	NA	transmembrane bax inhibitor motif-containing protein 5	NA	FBgn0037506
+DPOGS211186	DPOGS102030	FALSE	TRUE	TRUE	Putative CBR-EAT-6 protein	NA	NA	NA	cbr-eat-6 protein	Msex2.09855	FBgn0002921
+DPOGS211202	DPOGS122440	TRUE	TRUE	TRUE	"Putative dynein beta chain, ciliary"	NA	NA	NA	dynein beta ciliary	NA	NA
+DPOGS211203	DPOGS122440	TRUE	TRUE	TRUE	"Putative dynein beta chain, ciliary"	NA	NA	NA	dynein beta ciliary	Msex2.08745	FBgn0013811
+DPOGS211204	DPOGS122440	TRUE	TRUE	TRUE	"Putative dynein beta chain, ciliary"	1	Msex2.06577	NA	dynein beta ciliary	NA	NA
+DPOGS211216	DPOGS112051	FALSE	TRUE	TRUE	V-type proton ATPase subunit d	NA	NA	NA	v-type proton atpase subunit d	Msex2.10072	FBgn0028665
+DPOGS211221	DPOGS100019	FALSE	TRUE	TRUE	Uncharacterized protein	1	Msex2.10083	NA	protein anon-37c	NA	FBgn0002036
+DPOGS211232	DPOGS114676	FALSE	FALSE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_14676	Msex2.06595	NA
+DPOGS211280	DPOGS107186	FALSE	TRUE	FALSE	Uncharacterized protein	NA	NA	NA	molybdenum cofactor sulfurase	Msex2.10209	FBgn0002641
+DPOGS211321	DPOGS107138	FALSE	TRUE	FALSE	NA	NA	NA	NA	NA	NA	NA
+DPOGS211341	DPOGS122135	TRUE	TRUE	TRUE	Putative cuticle protein	1	Msex2.00440	NA	hypothetical protein KGM_05785	NA	NA
+DPOGS211353	DPOGS110105	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	putative Uncharacterized protein C20orf26	Msex2.00450	FBgn0050268
+DPOGS211354	DPOGS110106	FALSE	TRUE	TRUE	Uncharacterized protein	1	Msex2.00451	NA	hypothetical protein KGM_10106	NA	NA
+DPOGS211363	DPOGS110110	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_10110	Msex2.00452	NA
+DPOGS211366	DPOGS105791	TRUE	FALSE	FALSE	Putative PHD finger protein 10	NA	NA	NA	phd finger protein 10	Msex2.00435	FBgn0087008
+DPOGS211368	DPOGS105793	FALSE	TRUE	TRUE	Uncharacterized protein	1	Msex2.00431	NA	hypothetical protein KGM_04164	NA	FBgn0050268
+DPOGS211424	DPOGS115919	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_15919	Msex2.15261	NA
+DPOGS211429	DPOGS119444	TRUE	TRUE	TRUE	Alpha-tubulin	NA	NA	NA	alpha-tubulin	Msex2.07096	FBgn0003884
+DPOGS211437	DPOGS103737	TRUE	TRUE	TRUE	Thiol peroxiredoxin	1	Msex2.01475	NA	thiol peroxiredoxin	NA	FBgn0040309
+DPOGS211475	DPOGS117439	FALSE	TRUE	TRUE	Uncharacterized protein	1	Msex2.11940	FBgn0016687	hypothetical protein KGM_17439	NA	NA
+DPOGS211492	DPOGS110781	TRUE	TRUE	TRUE	Pyruvate dehydrogenase	1	Msex2.09233	FBgn0039635	pyruvate dehydrogenase	NA	NA
+DPOGS211498	DPOGS110673	FALSE	TRUE	TRUE	Putative phosphatidylethanolamine-binding protein isoform 1	1	Msex2.10797	NA	phosphatidylethanolamine-binding protein isoform 1	NA	FBgn0032453
+DPOGS211519	DPOGS113136	TRUE	TRUE	TRUE	Putative dihydrolipoamide succinyltransferase component of 2-oxoglutarate dehydrogenase	1	Msex2.10779	FBgn0037891	dihydrolipoamide succinyltransferase component of 2-oxoglutarate dehydrogenase	NA	NA
+DPOGS211536	DPOGS109218	FALSE	TRUE	FALSE	Receptor expression enhancing protein isoform 2	1	Msex2.01518	NA	receptor expression enhancing protein isoform 2	NA	FBgn0033906
+DPOGS211545	DPOGS111472	FALSE	TRUE	TRUE	Uncharacterized protein	0.333	Msex2.04176	FBgn0031392	hypothetical protein KGM_11472	NA	NA
+DPOGS211581	DPOGS105975	FALSE	FALSE	TRUE	NA	NA	NA	NA	NA	NA	NA
+DPOGS211585	DPOGS105976	TRUE	TRUE	TRUE	"Putative dynein, axonemal, light intermediate chain 1"	1	Msex2.00575	FBgn0037962	light intermediate chain 1	NA	NA
+DPOGS211597	DPOGS120502	TRUE	TRUE	TRUE	Malic enzyme	1	Msex2.05836	NA	hypothetical protein KGM_20502	NA	FBgn0029155
+DPOGS211602	DPOGS101506	TRUE	TRUE	TRUE	Uncharacterized protein	0.5	Msex2.07197	FBgn0029890	hypothetical protein KGM_01506	NA	FBgn0028336
+DPOGS211615	DPOGS101507	TRUE	TRUE	TRUE	"Putative NADH-ubiquinone oxidoreductase 75 kDa subunit, mitochondrial"	0.146	Msex2.06050	FBgn0017566	nadh-ubiquinone oxidoreductase 75 kda mitochondrial precursor	Msex2.05350	NA
+DPOGS211617	DPOGS101509	FALSE	TRUE	FALSE	NA	NA	NA	NA	NA	NA	NA
+DPOGS211649	DPOGS120285	FALSE	TRUE	FALSE	Lysophospholipase	1	Msex2.10342	NA	lysophospholipase	NA	FBgn0042138
+DPOGS211657	DPOGS122545	FALSE	TRUE	TRUE	Epimerase family protein SDR39U1	1	Msex2.10329	NA	epimerase family protein sdr39u1	NA	FBgn0033769
+DPOGS211662	DPOGS111541	FALSE	FALSE	TRUE	Uncharacterized protein	NA	NA	NA	aldo-keto reductase	Msex2.05952	FBgn0036290
+DPOGS211665	DPOGS117520	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_04161	Msex2.05962	FBgn0034025
+DPOGS211678	DPOGS103426	FALSE	TRUE	TRUE	Uncharacterized protein	0.333	Msex2.05946	FBgn0260442	putative Talin-2	NA	NA
+DPOGS211696	DPOGS119522	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.08323	NA	hypothetical protein KGM_19522	NA	NA
+DPOGS211755	DPOGS119036	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_19036	NA	NA
+DPOGS211771	DPOGS109970	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_09970	Msex2.05860	FBgn0032248
+DPOGS211775	DPOGS108096	TRUE	TRUE	TRUE	Putative cAMP-dependent protein kinase catalytic subunit	1	Msex2.05863	NA	camp-dependent protein kinase catalytic subunit	NA	FBgn0031784
+DPOGS211789	DPOGS107066	TRUE	TRUE	TRUE	cAMP-dependent protein kinase R2	1	Msex2.05857	NA	camp-dependent protein kinase r2	NA	FBgn0022382
+DPOGS211801	DPOGS109984	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_09983	Msex2.13427	NA
+DPOGS211811	DPOGS121973	FALSE	TRUE	TRUE	Putative slender lobes protein	0.333	Msex2.13702	NA	slender lobes protein	NA	FBgn0027287
+DPOGS211851	DPOGS105448	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_05448	Msex2.13877	FBgn0037626
+DPOGS211893	DPOGS102261	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_02261	Msex2.04541	NA
+DPOGS211948	DPOGS102785	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.06817	NA	hypothetical protein KGM_02785	NA	FBgn0037001
+DPOGS211962	DPOGS105419	FALSE	TRUE	FALSE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_05419	Msex2.06801	FBgn0261800
+DPOGS211980	DPOGS105436	TRUE	TRUE	TRUE	Ubiquinol-cytochrome c reductase complex	NA	NA	NA	ubiquinol-cytochrome c reductase complex	Msex2.13444	FBgn0036728
+DPOGS211988	DPOGS105289	FALSE	TRUE	TRUE	Putative postsynaptic protein CRIPT	NA	NA	NA	postsynaptic protein cript	NA	NA
+DPOGS211996	DPOGS120879	TRUE	TRUE	TRUE	ATP synthase subunit beta (EC 3.6.3.14)	NA	NA	NA	atp synthase subunit mitochondrial-like	NA	NA
+DPOGS212039	DPOGS108960	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.01744	FBgn0036702	hypothetical protein KGM_08960	NA	NA
+DPOGS212056	DPOGS122359	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_22359	Msex2.13954	NA
+DPOGS212075	DPOGS116950	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.09611	NA	PREDICTED: uncharacterized protein LOC101741035	NA	NA
+DPOGS212130	DPOGS110345	FALSE	TRUE	TRUE	Uncharacterized protein	1	Msex2.06194	NA	hypothetical protein KGM_10345	NA	NA
+DPOGS212145	DPOGS102847	FALSE	FALSE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_02847	Msex2.04332	FBgn0039747
+DPOGS212200	DPOGS119921	FALSE	TRUE	TRUE	Uncharacterized protein	1	Msex2.05665	NA	hypothetical protein KGM_19921	NA	NA
+DPOGS212294	DPOGS110692	FALSE	TRUE	TRUE	Transmembrane serine protease 9	NA	NA	NA	transmembrane serine protease 9	Msex2.04042	FBgn0027930
+DPOGS212299	DPOGS118084	TRUE	TRUE	TRUE	Putative cyclophilin-9	1	Msex2.08824	NA	putative cyclophilin-9	NA	FBgn0033089
+DPOGS212340	DPOGS110294	FALSE	FALSE	TRUE	Subunit VIb of cytochrome c oxidase	NA	NA	NA	subunit vib of cytochrome c oxidase	NA	FBgn0031066
+DPOGS212342	DPOGS110296	TRUE	TRUE	TRUE	Uncharacterized protein	0.4	Msex2.12338	FBgn0052820	low quality protein: tektin-3-like	NA	NA
+DPOGS212360	DPOGS110316	FALSE	TRUE	TRUE	Putative fatty acid synthase	NA	NA	NA	fatty acid synthase	Msex2.11718	FBgn0027571
+DPOGS212363	DPOGS110317	FALSE	FALSE	TRUE	NA	NA	NA	NA	NA	NA	NA
+DPOGS212365	DPOGS110320	FALSE	TRUE	TRUE	Proteasome subunit alpha type (EC 3.4.25.1)	0.5	Msex2.11721	NA	proteasome subunit alpha type 6-a	NA	FBgn0263121
+DPOGS212413	DPOGS101784	TRUE	FALSE	TRUE	"Putative dynein light chain 4, axonemal"	1	Msex2.04508	NA	dynein light chain axonemal	NA	FBgn0033687
+DPOGS212419	DPOGS102932	TRUE	TRUE	TRUE	Putative thioredoxin reductase isoform 2	0.5	Msex2.04501	NA	thioredoxin reductase isoform 2	NA	FBgn0020653
+DPOGS212420	DPOGS102933	TRUE	TRUE	TRUE	Putative WD repeat domain 66	1	Msex2.04499	NA	wd repeat domain 66	NA	NA
+DPOGS212452	DPOGS105378	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_05378	Msex2.00281	NA
+DPOGS212456	DPOGS111369	FALSE	TRUE	FALSE	NA	NA	NA	NA	NA	NA	NA
+DPOGS212495	DPOGS121655	FALSE	TRUE	TRUE	Putative cytoplasmic dynein light chain	1	Msex2.11429	NA	cytoplasmic dynein light chain	NA	FBgn0024432
+DPOGS212499	DPOGS117209	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_17209	NA	NA
+DPOGS212507	NA	FALSE	TRUE	TRUE	NA	NA	NA	NA	NA	NA	NA
+DPOGS212509	DPOGS106769	TRUE	TRUE	TRUE	Putative coiled-coil domain containing 13	1	Msex2.10183	NA	coiled-coil domain containing 13	NA	FBgn0036652
+DPOGS212546	DPOGS121132	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_21132	Msex2.11964	FBgn0263776
+DPOGS212563	DPOGS114030	TRUE	TRUE	TRUE	Enolase (EC 4.2.1.11)	1	Msex2.06012	NA	enolase ii	NA	FBgn0000579
+DPOGS212566	DPOGS114032	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_14032	NA	NA
+DPOGS212567	DPOGS114032	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.03697	NA	hypothetical protein KGM_14032	NA	FBgn0031545
+DPOGS212574	DPOGS114039	TRUE	TRUE	TRUE	Lethal neo18 protein	NA	NA	NA	lethal neo18 protein	Msex2.06054	FBgn0011455
+DPOGS212589	DPOGS111680	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	malate dehydrogenase	Msex2.02939	FBgn0262559
+DPOGS212621	DPOGS112166	TRUE	TRUE	TRUE	Putative testis-specific protein A2	0.333	Msex2.02950	FBgn0032478	testis-specific protein a2	NA	NA
+DPOGS212658	DPOGS115339	FALSE	FALSE	TRUE	Uncharacterized protein	1	Msex2.04726	NA	hypothetical protein KGM_15339	NA	FBgn0034507
+DPOGS212679	DPOGS115337	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_15337	Msex2.04725	NA
+DPOGS212715	DPOGS108636	TRUE	FALSE	FALSE	Cyclic-nucleotide-gated cation channel	NA	NA	NA	cyclic-nucleotide-gated cation channel	Msex2.10102	FBgn0263257
+DPOGS212742	DPOGS108646	TRUE	TRUE	TRUE	Putative testis spermatogenesis apoptosis-related protein 6	NA	NA	NA	testis spermatogenesis apoptosis-related protein 6	Msex2.03041	FBgn0031322
+DPOGS212773	DPOGS108683	FALSE	FALSE	TRUE	14-3-3 epsilon protein	NA	NA	NA	14-3-3 epsilon protein	Msex2.04343	FBgn0020238
+DPOGS212774	DPOGS108685	TRUE	FALSE	FALSE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_08685	Msex2.04342	FBgn0029861
+DPOGS212775	NA	FALSE	FALSE	TRUE	NA	NA	NA	NA	heat shock protein 70-3	Msex2.04340	FBgn0013276
+DPOGS212876	DPOGS120415	TRUE	TRUE	TRUE	Putative radial spokehead-like 3	0.333	Msex2.00871	FBgn0034957	radial spokehead-like 3	NA	NA
+DPOGS212901	DPOGS110699	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_10699	Msex2.02137	NA
+DPOGS212968	DPOGS111079	FALSE	TRUE	FALSE	NA	NA	NA	NA	NA	NA	NA
+DPOGS212973	DPOGS115834	TRUE	TRUE	TRUE	Cytochrome c1	1	Msex2.03495	NA	cytochrome c1	NA	FBgn0035600
+DPOGS213028	DPOGS100014	TRUE	TRUE	TRUE	GTP binding protein	NA	NA	NA	gtp binding protein	Msex2.05496	FBgn0030151
+DPOGS213052	DPOGS116576	FALSE	FALSE	TRUE	Putative serine-type enodpeptidase	NA	NA	NA	serine-type enodpeptidase	Msex2.14030	FBgn0038485
+DPOGS213075	DPOGS107560	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_07560	Msex2.01886	FBgn0032176
+DPOGS213087	NA	FALSE	TRUE	FALSE	NA	NA	NA	NA	NA	Msex2.13890	NA
+DPOGS213090	DPOGS122478	FALSE	TRUE	FALSE	Uncharacterized protein	NA	NA	FBgn0003392	hypothetical protein KGM_22478	Msex2.13816	NA
+DPOGS213094	DPOGS117217	TRUE	TRUE	TRUE	Uncharacterized protein	0.333	Msex2.14160	NA	hypothetical protein KGM_17217	NA	NA
+DPOGS213101	DPOGS104971	FALSE	FALSE	TRUE	Putative Collagen alpha-1(XI) chain	NA	NA	NA	collagen alpha-1 chain precursor	Msex2.11553	FBgn0000299
+DPOGS213109	DPOGS117225	FALSE	TRUE	TRUE	Putative serine protease	NA	NA	NA	serine protease	Msex2.03998	FBgn0040060
+DPOGS213119	DPOGS116496	TRUE	TRUE	TRUE	Putative NADH-ubiquinone oxidoreductase ashi subunit	0.5	Msex2.14166	FBgn0029888	nadh-ubiquinone oxidoreductase ashi subunit	NA	NA
+DPOGS213134	DPOGS106818	FALSE	FALSE	TRUE	Putative hect domain and RCC1-like domain 2	NA	NA	NA	hypothetical protein KGM_11261	Msex2.13162	FBgn0031107
+DPOGS213223	DPOGS115998	TRUE	FALSE	FALSE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_15998	Msex2.12314	FBgn0034975
+DPOGS213237	DPOGS106879	TRUE	TRUE	TRUE	Pyruvate dehydrogenase	1	Msex2.07271	FBgn0028325	pyruvate dehydrogenase	NA	NA
+DPOGS213255	DPOGS119769	FALSE	TRUE	TRUE	Uncharacterized protein	1	Msex2.07263	NA	hypothetical protein KGM_19769	NA	NA
+DPOGS213309	DPOGS101932	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.03019	NA	hypothetical protein KGM_01932	NA	NA
+DPOGS213336	DPOGS111978	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_11978	Msex2.08890	NA
+DPOGS213345	DPOGS117780	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.06078	NA	hypothetical protein KGM_17780	NA	FBgn0037162
+DPOGS213365	DPOGS108537	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_08537	NA	NA
+DPOGS213366	DPOGS108539	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.01835	NA	hypothetical protein KGM_08539	NA	NA
+DPOGS213370	DPOGS120583	FALSE	TRUE	TRUE	Uncharacterized protein	1	Msex2.01836	NA	hypothetical protein KGM_20582	NA	NA
+DPOGS213378	DPOGS118843	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_18843	Msex2.09559	NA
+DPOGS213379	DPOGS118844	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_18844	Msex2.09560	NA
+DPOGS213385	DPOGS117287	TRUE	TRUE	TRUE	Beta-tubulin	0.6	Msex2.06073	FBgn0003889	beta-tubulin	NA	FBgn0003887
+DPOGS213386	DPOGS117288	FALSE	TRUE	TRUE	Beta-tubulin	NA	NA	NA	beta-tubulin	NA	FBgn0003887
+DPOGS213388	DPOGS117773	TRUE	FALSE	TRUE	Beta-tubulin	0.115	Msex2.01816	FBgn0003888	beta-tubulin	Msex2.06075	NA
+DPOGS213396	DPOGS111985	FALSE	FALSE	TRUE	Oxysterol-binding protein	NA	NA	NA	oxysterol-binding protein 3	Msex2.06085	NA
+DPOGS213430	DPOGS111591	TRUE	TRUE	TRUE	Trypsin	NA	NA	NA	serine protease prss22	Msex2.05941	FBgn0034661
+DPOGS213431	DPOGS111591	TRUE	TRUE	TRUE	Trypsin	1	Msex2.05941	NA	trypsin	NA	NA
+DPOGS213436	DPOGS113341	FALSE	FALSE	TRUE	Putative boophilin-like protein	0.333	Msex2.02986	NA	boophilin-like protein	NA	FBgn0003137
+DPOGS213461	DPOGS119881	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_19881	NA	FBgn0034518
+DPOGS213462	DPOGS118901	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.13962	FBgn0032511	hypothetical protein KGM_18901	NA	NA
+DPOGS213463	DPOGS121441	TRUE	FALSE	FALSE	Uncharacterized protein	1	Msex2.13964	NA	enoyl- hydratase	NA	FBgn0038049
+DPOGS213472	DPOGS110817	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_10817	Msex2.11473	NA
+DPOGS213476	DPOGS118535	FALSE	TRUE	FALSE	Transcription elongation factor B polypeptide 1	1	Msex2.13316	NA	transcription elongation factor b polypeptide 1	NA	FBgn0266711
+DPOGS213489	DPOGS110821	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_01330	Msex2.11476	NA
+DPOGS213540	DPOGS103223	FALSE	FALSE	TRUE	Putative GTP-binding protein	NA	NA	NA	gtp-binding protein	Msex2.02369	FBgn0034243
+DPOGS213555	DPOGS112936	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_12936	Msex2.02346	NA
+DPOGS213611	DPOGS106036	FALSE	TRUE	TRUE	Putative Aminopeptidase N	1	Msex2.02406	FBgn0261243	aminopeptidase n precursor	NA	NA
+DPOGS213623	DPOGS102739	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.08000	NA	hypothetical protein KGM_02739	NA	FBgn0002921
+DPOGS213654	DPOGS114068	FALSE	TRUE	FALSE	NA	NA	NA	NA	NA	NA	NA
+DPOGS213656	DPOGS110007	TRUE	TRUE	TRUE	Pyruvate kinase (EC 2.7.1.40)	1	Msex2.02915	NA	hypothetical protein KGM_10007	NA	FBgn0003178
+DPOGS213659	DPOGS116510	FALSE	FALSE	TRUE	Uncharacterized protein	NA	NA	FBgn0052392	hypothetical protein KGM_03735	Msex2.13850	NA
+DPOGS213678	DPOGS100095	FALSE	TRUE	TRUE	NADH dehydrogenase [ubiquinone] 1 subunit C2	1	Msex2.08347	NA	hypothetical protein KGM_00095	NA	FBgn0031505
+DPOGS213683	DPOGS104467	FALSE	TRUE	TRUE	Putative fatbody protein 3Rev-G1	NA	NA	NA	fatbody protein 3rev-g1	Msex2.14424	FBgn0053998
+DPOGS213744	DPOGS113452	TRUE	TRUE	TRUE	Calmodulin-binding protein trpl	NA	NA	FBgn0005614	calmodulin-binding protein trpl	Msex2.00017	NA
+DPOGS213746	DPOGS104149	FALSE	TRUE	TRUE	Putative proteasome subunit alpha type	1	Msex2.00021	NA	proteasome subunit alpha type	NA	FBgn0250843
+DPOGS213812	DPOGS107938	FALSE	TRUE	FALSE	Uncharacterized protein	NA	NA	NA	serine threonine-protein kinase tousled-like 2-like isoform x2	Msex2.01289	FBgn0086899
+DPOGS213829	DPOGS104132	FALSE	FALSE	TRUE	Acylphosphatase (EC 3.6.1.7)	NA	NA	NA	hypothetical protein KGM_04132	Msex2.04817	FBgn0038363
+DPOGS213831	DPOGS104134	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.02642	NA	hypothetical protein KGM_04134	NA	FBgn0019886
+DPOGS213870	DPOGS118782	FALSE	TRUE	TRUE	Uncharacterized protein	1	Msex2.11631	NA	hypothetical protein KGM_18782	NA	NA
+DPOGS213874	DPOGS104918	FALSE	TRUE	TRUE	Uncharacterized protein	1	Msex2.04242	NA	hypothetical protein KGM_04918	NA	NA
+DPOGS213880	DPOGS104916	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_04915	Msex2.04241	NA
+DPOGS213882	NA	TRUE	TRUE	TRUE	NA	NA	NA	NA	hypothetical protein KGM_02170	NA	NA
+DPOGS213883	NA	TRUE	TRUE	TRUE	NA	NA	NA	NA	NA	Msex2.13460	NA
+DPOGS213971	DPOGS118324	FALSE	FALSE	TRUE	NA	NA	NA	NA	NA	NA	NA
+DPOGS214088	DPOGS118825	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_18825	Msex2.02039	FBgn0028950
+DPOGS214092	DPOGS120723	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.02032	NA	hypothetical protein KGM_20723	NA	NA
+DPOGS214096	DPOGS112314	FALSE	FALSE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_12314	Msex2.02026	FBgn0031854
+DPOGS214107	DPOGS102460	TRUE	TRUE	TRUE	Prohibitin protein WPH	1	Msex2.02019	FBgn0002031	prohibitin protein wph	NA	NA
+DPOGS214112	DPOGS102473	FALSE	FALSE	TRUE	Putative ATPase type 13A	NA	NA	FBgn0027582	atpase type 13a	Msex2.02009	NA
+DPOGS214113	DPOGS103116	FALSE	TRUE	TRUE	Uncharacterized protein	1	Msex2.02004	NA	hypothetical protein KGM_03116	NA	NA
+DPOGS214115	DPOGS103119	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_03119	Msex2.02002	FBgn0031944
+DPOGS214132	DPOGS113080	FALSE	TRUE	TRUE	Putative polyamine oxidase	NA	NA	NA	dipeptidyl-peptidase	Msex2.10463	FBgn0031741
+DPOGS214218	DPOGS102047	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.03175	NA	hypothetical protein KGM_02047	NA	FBgn0031566
+DPOGS214224	DPOGS102053	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	PREDICTED: uncharacterized protein LOC101737071	NA	NA
+DPOGS214263	DPOGS103447	FALSE	TRUE	FALSE	Putative defense protein Hdd11	NA	NA	NA	defense protein hdd11	Msex2.10479	FBgn0034067
+DPOGS214322	DPOGS116832	TRUE	FALSE	FALSE	Putative DnaJ-like protein	1	Msex2.07621	FBgn0015477	dnaj homolog subfamily c member 13-like	NA	NA
+DPOGS214361	DPOGS118754	FALSE	FALSE	TRUE	NADH dehydrogenase	NA	NA	NA	nadh dehydrogenase	Msex2.07624	FBgn0031228
+DPOGS214371	DPOGS107933	TRUE	FALSE	TRUE	Transitional endoplasmic reticulum ATPase TER94	1	Msex2.07610	NA	transitional endoplasmic reticulum atpase ter94	NA	FBgn0261014
+DPOGS214382	DPOGS107872	TRUE	TRUE	TRUE	Putative NADH:ubiquinone dehydrogenase	1	Msex2.09977	NA	nadh:ubiquinone dehydrogenase	NA	FBgn0031021
+DPOGS214399	DPOGS112655	FALSE	TRUE	TRUE	Uncharacterized protein	1	Msex2.07751	FBgn0039802	hypothetical protein KGM_12655	NA	NA
+DPOGS214411	DPOGS108559	FALSE	TRUE	TRUE	Uncharacterized protein	1	Msex2.07758	NA	hypothetical protein KGM_08559	NA	NA
+DPOGS214431	DPOGS110082	FALSE	TRUE	FALSE	Uncharacterized protein	1	Msex2.08148	NA	hypothetical protein KGM_10082	NA	NA
+DPOGS214433	DPOGS121679	FALSE	TRUE	TRUE	Putative leucine rich repeat containing 34	NA	NA	NA	leucine rich repeat containing 34	Msex2.07744	FBgn0003346
+DPOGS214474	DPOGS116752	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_16752	Msex2.04856	FBgn0005561
+DPOGS214479	DPOGS118350	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	GL12416	NA	FBgn0003884
+DPOGS214555	DPOGS101901	FALSE	FALSE	TRUE	Metalloprotease	1	Msex2.02121	NA	metalloprotease	NA	FBgn0033005
+DPOGS214591	DPOGS118340	TRUE	FALSE	FALSE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_18340	Msex2.09912	FBgn0039522
+DPOGS214608	DPOGS113356	FALSE	FALSE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_13356	NA	NA
+DPOGS214617	DPOGS107961	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_07961	Msex2.12764	NA
+DPOGS214623	DPOGS107970	FALSE	TRUE	TRUE	Uncharacterized protein	1	Msex2.12353	NA	hypothetical protein KGM_07970	NA	NA
+DPOGS214631	DPOGS109822	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_09822	NA	NA
+DPOGS214632	DPOGS109823	TRUE	TRUE	TRUE	Dynein heavy chain	1	Msex2.11008	FBgn0013812	dynein heavy chain	NA	NA
+DPOGS214656	DPOGS103831	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_01202	NA	NA
+DPOGS214667	DPOGS122329	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.05235	FBgn0034566	hypothetical protein KGM_22329	NA	NA
+DPOGS214674	DPOGS118791	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.08753	NA	hypothetical protein KGM_18791	NA	FBgn0033243
+DPOGS214691	DPOGS107907	FALSE	FALSE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_07907	Msex2.03003	FBgn0032223
+DPOGS214710	DPOGS122652	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_22652	Msex2.01242	NA
+DPOGS214731	DPOGS104591	TRUE	TRUE	TRUE	NADH-ubiquinone oxidoreductase 20 kDa subunit	0.333	Msex2.01218	NA	nadh-ubiquinone oxidoreductase 20 kda subunit precursor	NA	FBgn0030718
+DPOGS214736	DPOGS104474	FALSE	TRUE	FALSE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_04474	Msex2.01228	NA
+DPOGS214781	DPOGS107919	FALSE	FALSE	TRUE	NA	NA	NA	NA	NA	NA	NA
+DPOGS214840	DPOGS108290	TRUE	TRUE	TRUE	NA	1	Msex2.01713	FBgn0029667	growth arrest-specific protein 8-like	NA	NA
+DPOGS214855	DPOGS120214	FALSE	FALSE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_20214	Msex2.03218	FBgn0051457
+DPOGS214857	DPOGS120204	FALSE	FALSE	TRUE	NA	NA	NA	NA	NA	NA	NA
+DPOGS214869	DPOGS112755	FALSE	TRUE	TRUE	Uncharacterized protein	1	Msex2.01704	NA	hypothetical protein KGM_12755	NA	FBgn0085488
+DPOGS214875	DPOGS113456	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.01716	NA	hypothetical protein KGM_13456	NA	NA
+DPOGS214906	DPOGS115067	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	serine protease 1	Msex2.12378	FBgn0010425
+DPOGS214915	DPOGS106807	FALSE	FALSE	TRUE	Chitinase	NA	NA	NA	chitinase	Msex2.10627	FBgn0034580
+DPOGS214956	DPOGS100081	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.12565	NA	hypothetical protein KGM_00081	NA	FBgn0083946
+DPOGS215043	DPOGS106279	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.03557	NA	hypothetical protein KGM_06279	NA	NA
+DPOGS215059	DPOGS122454	FALSE	FALSE	TRUE	NA	NA	NA	NA	NA	NA	NA
+DPOGS215153	DPOGS101090	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_01090	Msex2.10274	FBgn0262511
+DPOGS215229	DPOGS119582	FALSE	TRUE	FALSE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_19582	Msex2.10575	FBgn0053299
+DPOGS215231	DPOGS119585	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_19585	Msex2.10577	NA
+DPOGS215239	DPOGS116621	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_16621	Msex2.00721	FBgn0250823
+DPOGS215291	DPOGS109336	FALSE	TRUE	TRUE	Uncharacterized protein	1	Msex2.11666	FBgn0037138	hypothetical protein KGM_09336	NA	NA
+DPOGS215321	DPOGS106201	FALSE	TRUE	TRUE	Uncharacterized protein	1	Msex2.13383	NA	hypothetical protein KGM_06201	NA	NA
+DPOGS215346	DPOGS109364	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.12043	NA	hypothetical protein KGM_09364	NA	FBgn0038595
+DPOGS215363	DPOGS121101	FALSE	TRUE	FALSE	Putative zinc finger protein RTS2	NA	NA	NA	zinc finger protein rts2	Msex2.10451	FBgn0024887
+DPOGS215381	DPOGS120228	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	FBgn0038000	hypothetical protein KGM_20228	Msex2.07296	NA
+DPOGS215382	DPOGS109928	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_09928	Msex2.07295	NA
+DPOGS215419	DPOGS108902	TRUE	TRUE	FALSE	Putative fibrillin 2	1	Msex2.12009	NA	fibrillin 2	NA	FBgn0053196
+DPOGS215420	DPOGS109376	FALSE	TRUE	TRUE	Uncharacterized protein	0.166	Msex2.12008	FBgn0034497	mitochondrial inorganic phosphate carrier	NA	NA
+DPOGS215437	DPOGS121695	FALSE	TRUE	FALSE	NA	NA	NA	NA	pyrroline-5-carboxylate reductase-like isoform x2	Msex2.04589	FBgn0038516
+DPOGS215440	DPOGS100513	TRUE	TRUE	TRUE	"Tubulin, beta 2C"	NA	NA	NA	beta 2c	NA	NA
+DPOGS215443	DPOGS121699	TRUE	TRUE	TRUE	Heat shock protein 20.4	NA	NA	NA	heat shock protein	Msex2.01819	FBgn0011296
+DPOGS215462	DPOGS107247	FALSE	FALSE	TRUE	Uncharacterized protein	NA	NA	NA	class d atypical g-protein coupled receptor gprfz3	Msex2.07723	FBgn0027342
+DPOGS215474	DPOGS107841	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_07841	Msex2.04446	FBgn0002578
+DPOGS215496	DPOGS109503	FALSE	TRUE	TRUE	Superoxide dismutase (EC 1.15.1.1)	1	Msex2.03430	FBgn0010213	mitochondrial mn superoxide dismutase	NA	NA
+DPOGS215520	DPOGS119266	TRUE	TRUE	TRUE	NA	0.333	Msex2.11051	FBgn0019957	nadh dehydrogenase	NA	NA
+DPOGS215524	DPOGS119268	FALSE	TRUE	TRUE	Glutathione synthetase	NA	NA	NA	glutathione synthetase	Msex2.12876	FBgn0052495
+DPOGS215528	DPOGS121417	TRUE	TRUE	TRUE	Putative pacifastin-related serine protease inhibitor	NA	NA	NA	pacifastin-related serine protease inhibitor	Msex2.11049	NA
+DPOGS215529	DPOGS121420	TRUE	TRUE	TRUE	Pacifastin-related serine protease inhibitor	NA	NA	NA	pacifastin-related serine protease inhibitor precursor	Msex2.11046	NA
+DPOGS215532	DPOGS112019	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.11194	NA	hypothetical protein KGM_12019	NA	NA
+DPOGS215533	DPOGS101989	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	FBgn0037239	hypothetical protein KGM_01989	Msex2.04075	NA
+DPOGS215548	DPOGS118706	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_18706	Msex2.04936	FBgn0039494
+DPOGS215549	DPOGS111364	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_11364	Msex2.04935	FBgn0051220
+DPOGS215557	DPOGS101992	FALSE	FALSE	TRUE	NA	NA	NA	NA	NA	NA	NA
+DPOGS215558	DPOGS101993	FALSE	TRUE	TRUE	Uncharacterized protein	1	Msex2.11193	FBgn0038922	hypothetical protein KGM_01993	NA	NA
+DPOGS215576	DPOGS111783	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	PREDICTED: uncharacterized protein LOC101743882	Msex2.00376	FBgn0052227
+DPOGS215594	NA	TRUE	TRUE	TRUE	NA	1	Msex2.04407	NA	adenylate kinase 7-like	NA	NA
+DPOGS215614	DPOGS108121	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.06991	FBgn0028997	hypothetical protein KGM_08121	NA	NA
+DPOGS215635	DPOGS115248	TRUE	TRUE	TRUE	Putative mitochondrial import receptor subunit tom40 isoform 1	1	Msex2.05475	NA	mitochondrial import receptor subunit tom40 isoform 1	NA	FBgn0016041
+DPOGS215640	DPOGS117251	FALSE	FALSE	TRUE	Putative hedgehog receptor	NA	NA	NA	hedgehog receptor	Msex2.05464	FBgn0003892
+DPOGS215645	DPOGS117653	TRUE	TRUE	TRUE	Cytochrome b-c1 complex subunit 7	1	Msex2.05459	FBgn0039576	ubiquinol-cytochrome c reductase complex 14kd subunit	NA	NA
+DPOGS215665	DPOGS119998	TRUE	TRUE	TRUE	NADH dehydrogenase 1 alpha subcomplex subunit 5	1	Msex2.09631	FBgn0047038	nadh dehydrogenase 1 alpha subcomplex subunit 5	NA	NA
+DPOGS215669	DPOGS115352	FALSE	FALSE	TRUE	Trypsin	NA	NA	NA	trypsin	Msex2.10710	FBgn0031619
+DPOGS215671	DPOGS115353	FALSE	FALSE	TRUE	Trypsin CFT-1	NA	NA	NA	trypsin cft-1	Msex2.10710	FBgn0015316
+DPOGS215677	DPOGS117560	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.03763	NA	hypothetical protein KGM_17560	NA	FBgn0031240
+DPOGS215705	DPOGS103453	TRUE	TRUE	TRUE	Putative armadillo repeat containing 3	1	Msex2.00940	NA	armadillo repeat containing 3	NA	FBgn0033794
+DPOGS215717	DPOGS100985	FALSE	TRUE	FALSE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_00985	NA	NA
+DPOGS215720	DPOGS100986	TRUE	TRUE	TRUE	Arginine kinase	1	Msex2.00929	FBgn0000116	arginine kinase	NA	NA
+DPOGS215731	DPOGS118723	TRUE	FALSE	FALSE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_18723	Msex2.03734	FBgn0034572
+DPOGS215734	NA	FALSE	TRUE	FALSE	NA	0.166	Msex2.03741	FBgn0000557	elongation factor 1-alpha	NA	FBgn0000556
+DPOGS215737	DPOGS119989	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.03745	NA	hypothetical protein KGM_19989	NA	FBgn0028540
+DPOGS215741	DPOGS104791	FALSE	FALSE	TRUE	Putative zinc finger protein	1	Msex2.03749	NA	zinc finger protein	NA	FBgn0086442
+DPOGS215757	DPOGS119992	FALSE	TRUE	TRUE	Uncharacterized protein	1	Msex2.09628	FBgn0001989	hypothetical protein KGM_19992	NA	NA
+DPOGS215766	DPOGS117658	TRUE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_17658	Msex2.05458	NA
+DPOGS215800	DPOGS108145	TRUE	TRUE	TRUE	Uncharacterized protein	1	Msex2.06992	NA	hypothetical protein KGM_08145	NA	NA
+DPOGS215818	DPOGS103061	TRUE	TRUE	TRUE	Pyruvate kinase (EC 2.7.1.40)	NA	NA	NA	pyruvate kinase 2	NA	FBgn0003178
+DPOGS215829	DPOGS103722	FALSE	FALSE	TRUE	Putative cullin 3	0.333	Msex2.08471	FBgn0261268	Cullin-3	NA	NA
+DPOGS215844	DPOGS103045	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_03045	Msex2.06521	NA
+DPOGS215883	DPOGS119324	FALSE	FALSE	TRUE	Cuticular protein RR-2 motif 87	NA	NA	NA	hypothetical protein KGM_07714	Msex2.11253	FBgn0030992
+DPOGS215921	DPOGS112130	TRUE	TRUE	TRUE	Dihydrolipoyl dehydrogenase (EC 1.8.1.4)	1	Msex2.03083	FBgn0036762	dihydrolipoamide dehydrogenase	NA	NA
+DPOGS215965	DPOGS113304	TRUE	FALSE	FALSE	NA	NA	NA	NA	NA	NA	NA
+DPOGS215990	DPOGS105068	TRUE	TRUE	TRUE	Uncharacterized protein	0.333	Msex2.04573	NA	hypothetical protein KGM_05068	NA	FBgn0030725
+DPOGS215991	DPOGS111922	FALSE	TRUE	TRUE	Uncharacterized protein	1	Msex2.04574	NA	hypothetical protein KGM_11922	NA	FBgn0032010
+DPOGS216010	DPOGS121468	FALSE	FALSE	TRUE	Uncharacterized protein	NA	NA	FBgn0051391	hypothetical protein KGM_21468	Msex2.10502	FBgn0037826
+DPOGS216029	DPOGS112547	FALSE	TRUE	TRUE	Cytochrome c	1	Msex2.01656	NA	cytochrome c	NA	FBgn0000409
+DPOGS216053	DPOGS111694	FALSE	TRUE	FALSE	Moderately methionine rich storage protein	NA	NA	FBgn0002563	moderately methionine rich storage protein	Msex2.01694	NA
+DPOGS216054	DPOGS100099	FALSE	TRUE	FALSE	Moderately methionine rich storage protein	NA	NA	NA	moderately methionine rich storage protein	Msex2.01694	NA
+DPOGS216069	DPOGS112065	FALSE	FALSE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_12065	Msex2.01667	FBgn0034490
+DPOGS216075	DPOGS100556	TRUE	TRUE	TRUE	Putative zinc binding dehydrogenase	NA	NA	FBgn0033883	zinc binding dehydrogenase	Msex2.01662	NA
+DPOGS216077	DPOGS100558	FALSE	TRUE	TRUE	UBX domain-containing protein 8	NA	NA	NA	ubx domain-containing protein 8	Msex2.01660	FBgn0025608
+DPOGS216156	DPOGS104301	FALSE	TRUE	TRUE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_04301	Msex2.14366	FBgn0051644
+DPOGS216169	DPOGS108402	FALSE	FALSE	TRUE	Dynein light chain roadblock-type 1	1	Msex2.07215	NA	dynein light chain roadblock-type 1	NA	FBgn0024196
+DPOGS216201	DPOGS113458	FALSE	TRUE	FALSE	NA	NA	NA	NA	NA	NA	NA
+DPOGS216210	DPOGS114900	TRUE	FALSE	FALSE	Uncharacterized protein	NA	NA	NA	hypothetical protein KGM_14900	Msex2.01802	NA
